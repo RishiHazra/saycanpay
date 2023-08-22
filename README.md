@@ -1,5 +1,5 @@
 # SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge
-![combined.gif](..%2F..%2FDownloads%2Fcombined.gif)
+![combined.gif](combined.gif)
 
 ## Quickstart
 
