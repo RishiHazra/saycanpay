@@ -1,0 +1,497 @@
+[Seed] 903
+[Goal] put the blue blocks in gray bowls.
+[Initial State] There is a gray bowl 1, gray bowl 2, blue block 1, blue block 2, red block 1, green bowl 1, orange bowl 1, yellow block 1.
+[Step 1] put blue block 1 in gray bowl 2.
+[Observation] blue block 1 in gray bowl 2. 
+[Step 2] put blue block 2 in gray bowl 1.
+[Observation] blue block 2 in gray bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 914
+[Goal] put the blue blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, blue block 1, blue block 2, red block 1, orange bowl 1, yellow bowl 1, purple block 1.
+[Step 1] put blue block 2 in green bowl 2.
+[Observation] blue block 2 in green bowl 2. 
+[Step 2] put blue block 1 in green bowl 1.
+[Observation] blue block 1 in green bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 913
+[Goal] put the blue blocks in cyan bowls.
+[Initial State] There is a cyan bowl 1, cyan bowl 2, cyan bowl 3, cyan bowl 4, blue block 1, blue block 2, red bowl 1, green block 1, orange block 1, yellow bowl 1.
+[Step 1] put blue block 2 in cyan bowl 4.
+[Observation] blue block 2 in cyan bowl 4. 
+[Step 2] put blue block 1 in cyan bowl 2.
+[Observation] blue block 1 in cyan bowl 2. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 912
+[Goal] put the brown blocks in gray bowls.
+[Initial State] There is a gray bowl 1, gray bowl 2, gray bowl 3, brown block 1, brown block 2, blue bowl 1, red block 1, green block 1, orange bowl 1.
+[Step 1] put brown block 2 in gray bowl 1.
+[Observation] brown block 2 in gray bowl 1. 
+[Step 2] put brown block 1 in gray bowl 1.
+[Observation] brown block 1 in gray bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 920
+[Goal] put the brown blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, brown block 1, brown block 2, blue block 1, red block 1, orange block 1, yellow block 1.
+[Step 1] put brown block 2 in green bowl 2.
+[Observation] brown block 2 in green bowl 2. 
+[Step 2] put brown block 1 in green bowl 1.
+[Observation] brown block 1 in green bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 917
+[Goal] put the cyan blocks in brown bowls.
+[Initial State] There is a brown bowl 1, brown bowl 2, brown bowl 3, brown bowl 4, cyan block 1, cyan block 2, blue block 1, red block 1, green block 1, orange block 1.
+[Step 1] put cyan block 2 in brown bowl 3.
+[Observation] cyan block 2 in brown bowl 3. 
+[Step 2] put cyan block 1 in brown bowl 2.
+[Observation] cyan block 1 in brown bowl 2. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 905
+[Goal] put the gray blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, gray block 1, gray block 2, blue bowl 1, red bowl 1, orange bowl 1, yellow bowl 1.
+[Step 1] put gray block 1 in green bowl 1.
+[Observation] gray block 1 in green bowl 1. 
+[Step 2] put gray block 2 in green bowl 1.
+[Observation] 
+[Step 3] put gray block 2 in green bowl 1.
+[Observation] gray block 2 in green bowl 1. 
+[Step 4] done placing blocks in bowls
+
+[Seed] 930
+[Goal] put the brown blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, brown block 1, brown block 2, red bowl 1, green block 1, orange block 1, yellow block 1.
+[Step 1] put brown block 1 in blue bowl 3.
+[Observation] brown block 1 in blue bowl 3. 
+[Step 2] put brown block 2 in blue bowl 1.
+[Observation] brown block 2 in blue bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 932
+[Goal] put the brown blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, brown block 1, brown block 2, red bowl 1, green bowl 1, orange block 1, yellow bowl 1.
+[Step 1] put brown block 1 in blue bowl 2.
+[Observation] brown block 1 in blue bowl 2. 
+[Step 2] put brown block 2 in blue bowl 1.
+[Observation] brown block 2 in blue bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 941
+[Goal] put the green blocks in brown bowls.
+[Initial State] There is a brown bowl 1, brown bowl 2, green block 1, green block 2, blue block 1, red bowl 1, orange block 1, yellow bowl 1.
+[Step 1] put green block 2 in brown bowl 2.
+[Observation] green block 2 in brown bowl 2. 
+[Step 2] put green block 1 in brown bowl 1.
+[Observation] green block 1 in brown bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 901
+[Goal] put the yellow blocks in gray bowls.
+[Initial State] There is a gray bowl 1, gray bowl 2, gray bowl 3, yellow block 1, yellow block 2, yellow block 3, blue bowl 1, red block 1, green bowl 1, orange block 1.
+[Step 1] put yellow block 2 in gray bowl 3.
+[Observation] yellow block 2 in gray bowl 3. 
+[Step 2] put yellow block 1 in gray bowl 1.
+[Observation] yellow block 1 in gray bowl 1. 
+[Step 3] put yellow block 3 in gray bowl 1.
+[Observation] yellow block 3 in gray bowl 1. 
+[Step 4] done placing blocks in bowls
+
+[Seed] 916
+[Goal] put the gray blocks in brown bowls.
+[Initial State] There is a brown bowl 1, brown bowl 2, gray block 1, gray block 2, blue bowl 1, red block 1, green bowl 1, orange bowl 1.
+[Step 1] put gray block 2 in brown bowl 2.
+[Observation] gray block 2 in brown bowl 2. 
+[Step 2] put gray block 1 in brown bowl 1.
+[Observation] gray block 1 in brown bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 944
+[Goal] put the blue blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, blue block 1, blue block 2, red block 1, orange bowl 1, yellow bowl 1, purple block 1.
+[Step 1] put blue block 1 in green bowl 3.
+[Observation] blue block 1 in green bowl 3. 
+[Step 2] put blue block 2 in green bowl 2.
+[Observation] blue block 2 in green bowl 2. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 922
+[Goal] put the blue blocks in brown bowls.
+[Initial State] There is a brown bowl 1, brown bowl 2, brown bowl 3, brown bowl 4, blue block 1, blue block 2, red bowl 1, green block 1, orange bowl 1, yellow block 1.
+[Step 1] put blue block 2 in brown bowl 3.
+[Observation] blue block 2 in brown bowl 3. 
+[Step 2] put blue block 1 in brown bowl 2.
+[Observation] blue block 1 in brown bowl 2. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 938
+[Goal] put the yellow blocks in cyan bowls.
+[Initial State] There is a cyan bowl 1, cyan bowl 2, cyan bowl 3, yellow block 1, yellow block 2, blue block 1, red bowl 1, green block 1, orange bowl 1.
+[Step 1] put yellow block 2 in cyan bowl 3.
+[Observation] yellow block 2 in cyan bowl 3. 
+[Step 2] put yellow block 1 in cyan bowl 2.
+[Observation] yellow block 1 in cyan bowl 2. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 948
+[Goal] put the brown blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, brown block 1, brown block 2, blue bowl 1, red block 1, orange block 1, yellow block 1.
+[Step 1] put brown block 2 in green bowl 2.
+[Observation] brown block 2 in green bowl 2. 
+[Step 2] put brown block 1 in green bowl 1.
+[Observation] brown block 1 in green bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 949
+[Goal] put the green blocks in gray bowls.
+[Initial State] There is a gray bowl 1, gray bowl 2, gray bowl 3, green block 1, green block 2, blue bowl 1, red block 1, orange block 1, yellow bowl 1.
+[Step 1] put green block 2 in gray bowl 3.
+[Observation] green block 2 in gray bowl 3. 
+[Step 2] put green block 1 in gray bowl 1.
+[Observation] green block 1 in gray bowl 1. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 923
+[Goal] put the cyan blocks in yellow bowls.
+[Initial State] There is a yellow bowl 1, yellow bowl 2, yellow bowl 3, cyan block 1, cyan block 2, blue bowl 1, red block 1, green block 1, orange bowl 1.
+[Step 1] put cyan block 1 in yellow bowl 3.
+[Observation] cyan block 1 in yellow bowl 3. 
+[Step 2] put cyan block 2 in yellow bowl 2.
+[Observation] cyan block 2 in yellow bowl 2. 
+[Step 3] done placing blocks in bowls
+
+[Seed] 904
+[Goal] put the gray blocks in brown bowls.
+[Initial State] There is a brown bowl 1, brown bowl 2, brown bowl 3, gray block 1, gray block 2, blue block 1, red bowl 1, green bowl 1, orange bowl 1.
+[Step 1] put gray block 1 in brown bowl 1.
+[Observation] gray block 1 in brown bowl 1. 
+[Step 2] put gray block 2 in brown bowl 1.
+[Observation] 
+[Step 3] put gray block 2 in brown bowl 1.
+[Observation] 
+[Step 4] put gray block 2 in brown bowl 1.
+[Observation] gray block 2 in brown bowl 1. 
+[Step 5] done placing blocks in bowls
+
+[Seed] 924
+[Goal] put the brown blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, brown block 1, brown block 2, brown block 3, blue block 1, red block 1, orange bowl 1, yellow bowl 1.
+[Step 1] put brown block 1 in green bowl 3.
+[Observation] brown block 1 in green bowl 3. 
+[Step 2] put brown block 3 in green bowl 1.
+[Observation] brown block 3 in green bowl 1. 
+[Step 3] put brown block 2 in green bowl 1.
+[Observation] brown block 2 in green bowl 1. 
+[Step 4] done placing blocks in bowls
+
+[Seed] 940
+[Goal] put the green blocks in cyan bowls.
+[Initial State] There is a cyan bowl 1, cyan bowl 2, cyan bowl 3, green block 1, green block 2, green block 3, blue bowl 1, red block 1, orange bowl 1, yellow bowl 1.
+[Step 1] put green block 2 in cyan bowl 3.
+[Observation] green block 2 in cyan bowl 3. 
+[Step 2] put green block 1 in cyan bowl 2.
+[Observation] green block 1 in cyan bowl 2. 
+[Step 3] put green block 3 in cyan bowl 1.
+[Observation] green block 3 in cyan bowl 1. 
+[Step 4] done placing blocks in bowls
+
+[Seed] 947
+[Goal] put the red blocks in gray bowls.
+[Initial State] There is a gray bowl 1, gray bowl 2, gray bowl 3, gray bowl 4, red block 1, red block 2, red block 3, blue block 1, green bowl 1, orange block 1, yellow bowl 1.
+[Step 1] put red block 3 in gray bowl 3.
+[Observation] red block 3 in gray bowl 3. 
+[Step 2] put red block 1 in gray bowl 2.
+[Observation] red block 1 in gray bowl 2. 
+[Step 3] put red block 2 in gray bowl 1.
+[Observation] red block 2 in gray bowl 1. 
+[Step 4] done placing blocks in bowls
+
+[Seed] 908
+[Goal] put the gray blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, blue bowl 4, gray block 1, gray block 2, gray block 3, gray block 4, red block 1, green bowl 1, orange block 1, yellow bowl 1.
+[Step 1] put gray block 4 in blue bowl 4.
+[Observation] gray block 4 in blue bowl 4. 
+[Step 2] put gray block 2 in blue bowl 3.
+[Observation] gray block 2 in blue bowl 3. 
+[Step 3] put gray block 3 in blue bowl 1.
+[Observation] gray block 3 in blue bowl 1. 
+[Step 4] put gray block 1 in blue bowl 1.
+[Observation] gray block 1 in blue bowl 1. 
+[Step 5] done placing blocks in bowls
+
+[Seed] 929
+[Goal] put the red blocks in brown bowls.
+[Initial State] There is a brown bowl 1, brown bowl 2, brown bowl 3, brown bowl 4, red block 1, red block 2, red block 3, blue bowl 1, green block 1, orange block 1, yellow bowl 1.
+[Step 1] put red block 3 in brown bowl 3.
+[Observation] red block 3 in brown bowl 3. 
+[Step 2] put red block 2 in brown bowl 1.
+[Observation] red block 2 in brown bowl 1. 
+[Step 3] put red block 1 in brown bowl 2.
+[Observation] red block 1 in brown bowl 2. 
+[Step 4] done placing blocks in bowls
+
+[Seed] 915
+[Goal] put the red blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, red block 1, red block 2, red block 3, red block 4, blue bowl 1, orange block 1, yellow block 1, purple block 1.
+[Step 1] put red block 1 in green bowl 3.
+[Observation] red block 1 in green bowl 3. 
+[Step 2] put red block 3 in green bowl 2.
+[Observation] red block 3 in green bowl 2. 
+[Step 3] put red block 2 in green bowl 1.
+[Observation] red block 2 in green bowl 1. 
+[Step 4] put red block 4 in green bowl 1.
+[Observation] red block 4 in green bowl 1. 
+[Step 5] done placing blocks in bowls
+
+[Seed] 910
+[Goal] put the brown blocks in cyan bowls.
+[Initial State] There is a cyan bowl 1, cyan bowl 2, cyan bowl 3, cyan bowl 4, brown block 1, brown block 2, brown block 3, brown block 4, blue block 1, red block 1, green block 1, orange bowl 1.
+[Step 1] put brown block 1 in cyan bowl 4.
+[Observation] brown block 1 in cyan bowl 4. 
+[Step 2] put brown block 2 in cyan bowl 3.
+[Observation] brown block 2 in cyan bowl 3. 
+[Step 3] put brown block 3 in cyan bowl 2.
+[Observation] brown block 3 in cyan bowl 2. 
+[Step 4] put brown block 4 in cyan bowl 1.
+[Observation] brown block 4 in cyan bowl 1. 
+[Step 5] done placing blocks in bowls
+
+[Seed] 943
+[Goal] put the brown blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, brown block 1, brown block 2, brown block 3, blue bowl 1, green block 1, orange bowl 1, yellow block 1.
+[Step 1] put brown block 3 in red bowl 1.
+[Observation] brown block 3 in red bowl 1. 
+[Step 2] put brown block 2 in red bowl 1.
+[Observation] brown block 2 in red bowl 1. 
+[Step 3] put brown block 1 in red bowl 2.
+[Observation] brown block 1 in red bowl 2. 
+[Step 4] done placing blocks in bowls
+
+[Seed] 918
+[Goal] put the cyan blocks in gray bowls.
+[Initial State] There is a gray bowl 1, gray bowl 2, gray bowl 3, cyan block 1, cyan block 2, cyan block 3, blue block 1, red block 1, green bowl 1, orange bowl 1.
+[Step 1] put cyan block 2 in gray bowl 3.
+[Observation] cyan block 2 in gray bowl 3. 
+[Step 2] put cyan block 3 in gray bowl 2.
+[Observation] cyan block 3 in gray bowl 2. 
+[Step 3] put cyan block 1 in gray bowl 1.
+[Observation] 
+[Step 4] put cyan block 1 in gray bowl 1.
+[Observation] cyan block 1 in gray bowl 1. 
+[Step 5] done placing blocks in bowls
+
+[Seed] 902
+[Goal] put the green blocks in gray bowls.
+[Initial State] There is a gray bowl 1, gray bowl 2, gray bowl 3, gray bowl 4, green block 1, green block 2, green block 3, blue bowl 1, red bowl 1, orange block 1, yellow bowl 1.
+[Step 1] put green block 2 in gray bowl 1.
+[Observation] green block 2 in gray bowl 1. 
+[Step 2] put green block 1 in gray bowl 1.
+[Observation] 
+[Step 3] put green block 1 in gray bowl 3.
+[Observation] green block 1 in gray bowl 3. 
+[Step 4] put green block 3 in gray bowl 1.
+[Observation] 
+[Step 5] put green block 3 in gray bowl 2.
+[Observation] green block 3 in gray bowl 2. 
+[Step 6] done placing blocks in bowls
+
+[Seed] 928
+[Goal] put the green blocks in yellow bowls.
+[Initial State] There is a yellow bowl 1, yellow bowl 2, green block 1, green block 2, blue block 1, red bowl 1, orange bowl 1, purple bowl 1.
+[Step 1] put green block 1 in yellow bowl 1.
+[Observation] green block 1 in yellow bowl 1. 
+[Step 2] put green block 2 in yellow bowl 1.
+[Observation] 
+[Step 3] put green block 2 in yellow bowl 1.
+[Observation] 
+[Step 4] put green block 2 in yellow bowl 1.
+[Observation] green block 2 in yellow bowl 1. 
+[Step 5] done placing blocks in bowls
+
+[Seed] 926
+[Goal] put the gray blocks in yellow bowls.
+[Initial State] There is a yellow bowl 1, yellow bowl 2, yellow bowl 3, yellow bowl 4, gray block 1, gray block 2, gray block 3, blue bowl 1, red block 1, green block 1, orange block 1.
+[Step 1] put gray block 3 in yellow bowl 4.
+[Observation] gray block 3 in yellow bowl 4. 
+[Step 2] put gray block 1 in yellow bowl 1.
+[Observation] gray block 1 in yellow bowl 1. 
+[Step 3] put gray block 2 in yellow bowl 1.
+[Observation] 
+[Step 4] put gray block 2 in yellow bowl 2.
+[Observation] gray block 2 in yellow bowl 2. 
+[Step 5] done placing blocks in bowls
+
+[Seed] 925
+[Goal] put the blue blocks in cyan bowls.
+[Initial State] There is a cyan bowl 1, cyan bowl 2, cyan bowl 3, cyan bowl 4, blue block 1, blue block 2, blue block 3, blue block 4, red bowl 1, green block 1, orange block 1, yellow bowl 1.
+[Step 1] put blue block 2 in cyan bowl 4.
+[Observation] blue block 2 in cyan bowl 4. 
+[Step 2] put blue block 4 in cyan bowl 2.
+[Observation] blue block 4 in cyan bowl 2. 
+[Step 3] put blue block 3 in cyan bowl 1.
+[Observation] blue block 3 in cyan bowl 1. 
+[Step 4] put blue block 1 in cyan bowl 1.
+[Observation] 
+[Step 5] put blue block 1 in cyan bowl 1.
+[Observation] blue block 1 in cyan bowl 1. 
+[Step 6] done placing blocks in bowls
+
+[Seed] 911
+[Goal] put the yellow blocks in cyan bowls.
+[Initial State] There is a cyan bowl 1, cyan bowl 2, cyan bowl 3, cyan bowl 4, yellow block 1, yellow block 2, blue bowl 1, red bowl 1, green bowl 1, orange block 1.
+[Step 1] put yellow block 2 in cyan bowl 1.
+[Observation] yellow block 2 in cyan bowl 1. 
+[Step 2] put yellow block 1 in cyan bowl 1.
+[Observation] 
+[Step 3] put yellow block 1 in cyan bowl 1.
+[Observation] 
+[Step 4] put yellow block 1 in cyan bowl 1.
+[Observation] 
+[Step 5] put yellow block 1 in cyan bowl 1.
+[Observation] 
+[Step 6] put yellow block 1 in cyan bowl 1.
+[Observation] yellow block 1 in cyan bowl 1. 
+[Step 7] done placing blocks in bowls
+
+[Seed] 921
+[Goal] put the green blocks in cyan bowls.
+[Initial State] There is a cyan bowl 1, cyan bowl 2, cyan bowl 3, green block 1, green block 2, green block 3, blue block 1, red bowl 1, orange block 1, yellow block 1.
+[Step 1] put green block 1 in cyan bowl 2.
+[Observation] green block 1 in cyan bowl 2. 
+[Step 2] put green block 2 in cyan bowl 1.
+[Observation] green block 2 in cyan bowl 1. 
+[Step 3] put green block 3 in cyan bowl 1.
+[Observation] 
+[Step 4] put green block 3 in cyan bowl 1.
+[Observation] 
+[Step 5] put green block 3 in cyan bowl 1.
+[Observation] 
+[Step 6] put green block 3 in cyan bowl 1.
+[Observation] 
+[Step 7] put green block 3 in cyan bowl 1.
+[Observation] 
+[Step 8] put green block 3 in cyan bowl 1.
+[Observation] green block 3 in cyan bowl 1. 
+[Step 9] done placing blocks in bowls
+
+[Seed] 934
+[Goal] put the yellow blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, yellow block 1, yellow block 2, blue block 1, green bowl 1, orange bowl 1, purple bowl 1.
+[Step 1] put yellow block 2 in red bowl 1.
+[Observation] yellow block 2 in red bowl 1. 
+[Step 2] put yellow block 1 in red bowl 1.
+[Observation] 
+[Step 3] put yellow block 1 in red bowl 1.
+[Observation] 
+[Step 4] put yellow block 1 in red bowl 1.
+[Observation] 
+[Step 5] put yellow block 1 in red bowl 1.
+[Observation] 
+[Step 6] put yellow block 1 in red bowl 1.
+[Observation] 
+[Step 7] put yellow block 1 in red bowl 1.
+[Observation] 
+[Step 8] put yellow block 1 in red bowl 1.
+[Observation] yellow block 1 in red bowl 1. 
+[Step 9] done placing blocks in bowls
+
+[Seed] 937
+[Goal] put the brown blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, brown block 1, brown block 2, blue block 1, green block 1, orange block 1, yellow bowl 1.
+[Step 1] put brown block 2 in red bowl 1.
+[Observation] brown block 2 in red bowl 1. 
+[Step 2] put brown block 1 in red bowl 1.
+[Observation] 
+[Step 3] put brown block 1 in red bowl 1.
+[Observation] 
+[Step 4] put brown block 1 in red bowl 1.
+[Observation] 
+[Step 5] put brown block 1 in red bowl 1.
+[Observation] 
+[Step 6] put brown block 1 in red bowl 1.
+[Observation] 
+[Step 7] put brown block 1 in red bowl 1.
+[Observation] 
+[Step 8] put brown block 1 in red bowl 1.
+[Observation] 
+[Step 9] put brown block 1 in red bowl 1.
+[Observation] 
+[Step 10] put brown block 1 in red bowl 1.
+[Observation] brown block 1 in red bowl 1. 
+[Step 11] done placing blocks in bowls
+
+[Seed] 935
+[Goal] put the cyan blocks in gray bowls.
+[Initial State] There is a gray bowl 1, gray bowl 2, gray bowl 3, gray bowl 4, cyan block 1, cyan block 2, cyan block 3, blue bowl 1, red bowl 1, green bowl 1, orange bowl 1.
+[Step 1] put cyan block 3 in gray bowl 3.
+[Observation] cyan block 3 in gray bowl 3. 
+[Step 2] put cyan block 2 in gray bowl 1.
+[Observation] cyan block 2 in gray bowl 1. 
+[Step 3] put cyan block 1 in gray bowl 1.
+[Observation] 
+[Step 4] put cyan block 1 in gray bowl 1.
+[Observation] 
+[Step 5] put cyan block 1 in gray bowl 1.
+[Observation] 
+[Step 6] put cyan block 1 in gray bowl 1.
+[Observation] 
+[Step 7] put cyan block 1 in gray bowl 1.
+[Observation] 
+[Step 8] put cyan block 1 in gray bowl 1.
+[Observation] cyan block 1 in gray bowl 1. 
+[Step 9] done placing blocks in bowls
+
+[Seed] 933
+[Goal] put the brown blocks in cyan bowls.
+[Initial State] There is a cyan bowl 1, cyan bowl 2, cyan bowl 3, brown block 1, brown block 2, brown block 3, blue block 1, red block 1, green block 1, orange bowl 1.
+[Step 1] put brown block 3 in cyan bowl 1.
+[Observation] brown block 3 in cyan bowl 1. 
+[Step 2] put brown block 2 in cyan bowl 1.
+[Observation] brown block 2 in cyan bowl 1. 
+[Step 3] put brown block 3 in cyan bowl 2.
+[Observation] brown block 2 not in cyan bowl 1. brown block 3 not in cyan bowl 1. brown block 3 in cyan bowl 2. 
+[Step 4] put brown block 2 in cyan bowl 1.
+[Observation] brown block 2 in cyan bowl 1. 
+[Step 5] put brown block 1 in cyan bowl 1.
+[Observation] 
+[Step 6] put brown block 1 in cyan bowl 1.
+[Observation] 
+[Step 7] put brown block 1 in cyan bowl 1.
+[Observation] 
+[Step 8] put brown block 1 in cyan bowl 1.
+[Observation] 
+[Step 9] put brown block 1 in cyan bowl 1.
+[Observation] 
+[Step 10] put brown block 1 in cyan bowl 1.
+[Observation] brown block 1 in cyan bowl 1. 
+[Step 11] done placing blocks in bowls
+
+[Seed] 906
+[Goal] put the blue blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, blue block 1, blue block 2, blue block 3, blue block 4, red bowl 1, orange bowl 1, yellow block 1, purple bowl 1.
+[Step 1] put blue block 3 in green bowl 3.
+[Observation] blue block 3 in green bowl 3. 
+[Step 2] put blue block 1 in green bowl 3.
+[Observation] 
+[Step 3] put blue block 1 in green bowl 2.
+[Observation] blue block 1 in green bowl 2. 
+[Step 4] put blue block 4 in green bowl 2.
+[Observation] 
+[Step 5] put blue block 4 in green bowl 2.
+[Observation] blue block 4 in green bowl 2. 
+[Step 6] put blue block 4 in green bowl 2.
+[Observation] blue block 1 not in green bowl 2. 
+[Step 7] put blue block 2 in green bowl 1.
+[Observation] blue block 2 in green bowl 1. 
+[Step 8] put blue block 1 in green bowl 1.
+[Observation] 
+[Step 9] put blue block 1 in green bowl 1.
+[Observation] 
+[Step 10] put blue block 1 in green bowl 1.
+[Observation] blue block 1 in green bowl 1. 
+[Step 11] done placing blocks in bowls
+

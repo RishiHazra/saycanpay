@@ -1,0 +1,56 @@
+# Training CAN, PAY models
+
+defaults:
+  - config
+
+hydra:
+  run:
+    dir: ${train.train_dir}
+
+dataset:
+  type: 'single' # 'single' or 'multi'
+  images: True
+  cache: True # load episodes to memory instead of reading from disk
+  augment:
+    theta_sigma: 60 # rotation sigma in degrees; N(mu = 0, sigma = theta_sigma).
+
+train:
+  # folders
+  train_dir: ${root_dir}/${train.task}/train
+  ckpt_dir: ${root_dir}/${train.task}/checkpoints/${train.model}
+  # hanoi: 2023-06-05 07:24,
+  input_path: ${root_dir}/${train.task}/data/oracle-plans/train  # oracle data input path
+  preprocess_path: ${root_dir}/${train.task}/data/train-preprocess  # data storage path for preprocessed data
+  save_path: ${root_dir}/${train.task}/data/train-${train.model}  # data storage path for can, pay processed
+#  save_dir: ${root_dir}/data
+
+  # task configs
+  task: put-block-in-bowl  # put-block-in-bowl, towers-of-hanoi-seq
+  model: can  # can, pay
+  max_epochs: 50
+
+  # hyper params
+  batchnorm: False # important: False because batch_size=1
+  lr: 1e-4
+  weight_decay: 1e-5
+  train_val_split: 0.8
+  batch_size: 50
+
+  # script configs
+  gpu: [0] # -1 for all
+  log: True # log metrics and stats to wandb
+  load_from_last_ckpt: False
+
+wandb:
+  run_name: ${wandb.logger.entity}-${wandb.task}-${train.model}-${wandb.run}
+  run: 1
+  task: blocks  # blocks, hanoi
+  logger:
+    entity: ravens
+    project: lm
+    tags: []
+    group: train
+    offline: False
+  saver:
+    upload: False
+    monitor: ${train.model}-val-loss

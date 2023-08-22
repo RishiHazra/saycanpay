@@ -1,0 +1,443 @@
+[Seed] 854
+[Goal] move the cyan disk in rod 2.
+[Initial State] cyan disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put cyan disk in rod 2.
+[Observation] cyan disk not on top of green disk. cyan disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 853
+[Goal] move the yellow disk in rod 3.
+[Initial State] yellow disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put yellow disk in rod 3.
+[Observation] yellow disk not on top of green disk. yellow disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 856
+[Goal] move the red disk in rod 2.
+[Initial State] red disk on top of cyan disk. cyan disk on top of brown disk. brown disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 2.
+[Observation] red disk not on top of cyan disk. red disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 864
+[Goal] move the green disk in rod 3.
+[Initial State] green disk on top of yellow disk. yellow disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put green disk in rod 3.
+[Observation] green disk not on top of yellow disk. green disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 859
+[Goal] move the brown disk in rod 3.
+[Initial State] brown disk on top of red disk. red disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 3.
+[Observation] brown disk not on top of red disk. brown disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 863
+[Goal] move the brown disk in rod 3.
+[Initial State] brown disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 3.
+[Observation] brown disk not on top of green disk. brown disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 861
+[Goal] move the cyan disk in rod 2.
+[Initial State] cyan disk on top of yellow disk. yellow disk on top of gray disk. gray disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put cyan disk in rod 2.
+[Observation] cyan disk not on top of yellow disk. cyan disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 866
+[Goal] move the blue disk in rod 3.
+[Initial State] blue disk on top of red disk. red disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put blue disk in rod 3.
+[Observation] blue disk not on top of red disk. blue disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 867
+[Goal] move the cyan disk in rod 2.
+[Initial State] cyan disk on top of red disk. red disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put cyan disk in rod 2.
+[Observation] cyan disk not on top of red disk. cyan disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 871
+[Goal] move the green disk in rod 3.
+[Initial State] green disk on top of brown disk. brown disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put green disk in rod 3.
+[Observation] green disk not on top of brown disk. green disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 883
+[Goal] move the brown disk in rod 2.
+[Initial State] brown disk on top of blue disk. blue disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 2.
+[Observation] brown disk not on top of blue disk. brown disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 851
+[Goal] move the yellow disk in rod 3.
+[Initial State] brown disk on top of yellow disk. yellow disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 2.
+[Observation] brown disk not on top of yellow disk. brown disk in rod 2. 
+[Step 2] put yellow disk in rod 3.
+[Observation] yellow disk not in rod 1. yellow disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 882
+[Goal] move the blue disk in rod 3.
+[Initial State] blue disk on top of gray disk. gray disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put blue disk in rod 3.
+[Observation] blue disk not on top of gray disk. blue disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 875
+[Goal] move the brown disk in rod 2.
+[Initial State] brown disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 2.
+[Observation] brown disk not on top of green disk. brown disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 874
+[Goal] move the brown disk in rod 2.
+[Initial State] brown disk on top of red disk. red disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 2.
+[Observation] brown disk not on top of red disk. brown disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 860
+[Goal] move the cyan disk in rod 2.
+[Initial State] red disk on top of cyan disk. cyan disk on top of blue disk. blue disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 3.
+[Observation] red disk not on top of cyan disk. red disk in rod 3. 
+[Step 2] put cyan disk in rod 2.
+[Observation] cyan disk not on top of blue disk. cyan disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 886
+[Goal] move the red disk in rod 3.
+[Initial State] red disk on top of brown disk. brown disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 3.
+[Observation] red disk not on top of brown disk. red disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 852
+[Goal] move the brown disk in rod 3.
+[Initial State] cyan disk on top of brown disk. brown disk on top of blue disk. blue disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put cyan disk in rod 2.
+[Observation] cyan disk not on top of brown disk. cyan disk in rod 2. 
+[Step 2] put brown disk in rod 3.
+[Observation] brown disk not on top of blue disk. brown disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 868
+[Goal] move the red disk in rod 3.
+[Initial State] yellow disk on top of red disk. red disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put yellow disk in rod 2.
+[Observation] yellow disk not on top of red disk. yellow disk in rod 2. 
+[Step 2] put red disk in rod 3.
+[Observation] red disk not on top of green disk. red disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 893
+[Goal] move the brown disk in rod 2.
+[Initial State] brown disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 2.
+[Observation] brown disk not on top of green disk. brown disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 889
+[Goal] move the gray disk in rod 3.
+[Initial State] gray disk on top of brown disk. brown disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put gray disk in rod 3.
+[Observation] gray disk not on top of brown disk. gray disk in rod 3. 
+[Step 2] done putting disks in rods
+
+[Seed] 858
+[Goal] move the cyan disk in rod 3.
+[Initial State] brown disk on top of cyan disk. cyan disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 2.
+[Observation] brown disk not on top of cyan disk. brown disk in rod 2. 
+[Step 2] put cyan disk in rod 3.
+[Observation] cyan disk not in rod 1. cyan disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 857
+[Goal] move the gray disk in rod 3.
+[Initial State] yellow disk on top of gray disk. gray disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put yellow disk in rod 2.
+[Observation] yellow disk not on top of gray disk. yellow disk in rod 2. 
+[Step 2] put gray disk in rod 3.
+[Observation] gray disk not in rod 1. gray disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 880
+[Goal] move the cyan disk in rod 2.
+[Initial State] blue disk on top of cyan disk. cyan disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put blue disk in rod 3.
+[Observation] blue disk not on top of cyan disk. blue disk in rod 3. 
+[Step 2] put cyan disk in rod 2.
+[Observation] cyan disk not in rod 1. cyan disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 865
+[Goal] move the brown disk in rod 2.
+[Initial State] yellow disk on top of brown disk. brown disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put yellow disk in rod 3.
+[Observation] yellow disk not on top of brown disk. yellow disk in rod 3. 
+[Step 2] put brown disk in rod 2.
+[Observation] brown disk not in rod 1. brown disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 881
+[Goal] move the green disk in rod 2.
+[Initial State] gray disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put gray disk in rod 3.
+[Observation] gray disk not on top of green disk. gray disk in rod 3. 
+[Step 2] put green disk in rod 2.
+[Observation] green disk not in rod 1. green disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 897
+[Goal] move the blue disk in rod 2.
+[Initial State] blue disk on top of cyan disk. cyan disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put blue disk in rod 2.
+[Observation] blue disk not on top of cyan disk. blue disk in rod 2. 
+[Step 2] done putting disks in rods
+
+[Seed] 876
+[Goal] move the blue disk in rod 2.
+[Initial State] gray disk on top of blue disk. blue disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put gray disk in rod 3.
+[Observation] gray disk not on top of blue disk. gray disk in rod 3. 
+[Step 2] put blue disk in rod 2.
+[Observation] blue disk not in rod 1. blue disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 872
+[Goal] move the yellow disk in rod 2.
+[Initial State] brown disk on top of yellow disk. yellow disk on top of red disk. red disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 3.
+[Observation] brown disk not on top of yellow disk. brown disk in rod 3. 
+[Step 2] put yellow disk in rod 2.
+[Observation] yellow disk not on top of red disk. yellow disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 869
+[Goal] move the gray disk in rod 3.
+[Initial State] yellow disk on top of gray disk. gray disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put yellow disk in rod 2.
+[Observation] yellow disk not on top of gray disk. yellow disk in rod 2. 
+[Step 2] put gray disk in rod 3.
+[Observation] gray disk not in rod 1. gray disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 877
+[Goal] move the yellow disk in rod 2.
+[Initial State] red disk on top of yellow disk. yellow disk on top of cyan disk. cyan disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 3.
+[Observation] red disk not on top of yellow disk. red disk in rod 3. 
+[Step 2] put yellow disk in rod 2.
+[Observation] yellow disk not on top of cyan disk. yellow disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 888
+[Goal] move the yellow disk in rod 3.
+[Initial State] blue disk on top of yellow disk. yellow disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put blue disk in rod 2.
+[Observation] blue disk not on top of yellow disk. blue disk in rod 2. 
+[Step 2] put yellow disk in rod 3.
+[Observation] yellow disk not in rod 1. yellow disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 890
+[Goal] move the green disk in rod 3.
+[Initial State] blue disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put blue disk in rod 2.
+[Observation] blue disk not on top of green disk. blue disk in rod 2. 
+[Step 2] put green disk in rod 3.
+[Observation] green disk not in rod 1. green disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 896
+[Goal] move the brown disk in rod 2.
+[Initial State] red disk on top of brown disk. brown disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 3.
+[Observation] red disk not on top of brown disk. red disk in rod 3. 
+[Step 2] put brown disk in rod 2.
+[Observation] brown disk not in rod 1. brown disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 884
+[Goal] move the gray disk in rod 2.
+[Initial State] cyan disk on top of gray disk. gray disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put cyan disk in rod 3.
+[Observation] cyan disk not on top of gray disk. cyan disk in rod 3. 
+[Step 2] put gray disk in rod 2.
+[Observation] gray disk not in rod 1. gray disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 885
+[Goal] move the yellow disk in rod 3.
+[Initial State] green disk on top of yellow disk. yellow disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put green disk in rod 2.
+[Observation] green disk not on top of yellow disk. green disk in rod 2. 
+[Step 2] put yellow disk in rod 3.
+[Observation] yellow disk not in rod 1. yellow disk in rod 3. 
+[Step 3] done putting disks in rods
+
+[Seed] 894
+[Goal] move the cyan disk in rod 2.
+[Initial State] yellow disk on top of cyan disk. cyan disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put yellow disk in rod 3.
+[Observation] yellow disk not on top of cyan disk. yellow disk in rod 3. 
+[Step 2] put cyan disk in rod 2.
+[Observation] cyan disk not in rod 1. cyan disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 862
+[Goal] move the gray disk in rod 2.
+[Initial State] brown disk on top of gray disk. gray disk on top of red disk. red disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put brown disk in rod 3.
+[Observation] brown disk not on top of gray disk. gray disk not on top of red disk. 
+[Step 2] put brown disk in rod 3.
+[Observation] brown disk in rod 3. 
+[Step 3] put gray disk in rod 2.
+[Observation] gray disk in rod 2. 
+[Step 4] done putting disks in rods
+
+[Seed] 898
+[Goal] move the red disk in rod 2.
+[Initial State] yellow disk on top of red disk. red disk on top of blue disk. blue disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put yellow disk in rod 3.
+[Observation] yellow disk not on top of red disk. yellow disk in rod 3. 
+[Step 2] put red disk in rod 2.
+[Observation] red disk not on top of blue disk. red disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 895
+[Goal] move the blue disk in rod 2.
+[Initial State] gray disk on top of blue disk. blue disk on top of yellow disk. yellow disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put gray disk in rod 3.
+[Observation] gray disk not on top of blue disk. gray disk in rod 3. 
+[Step 2] put blue disk in rod 2.
+[Observation] blue disk not on top of yellow disk. blue disk in rod 2. 
+[Step 3] done putting disks in rods
+
+[Seed] 870
+[Goal] move the gray disk in rod 2.
+[Initial State] red disk on top of yellow disk. yellow disk on top of gray disk. gray disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 2.
+[Observation] red disk not on top of yellow disk. red disk in rod 2. 
+[Step 2] put yellow disk in rod 3.
+[Observation] yellow disk not on top of gray disk. yellow disk in rod 3. 
+[Step 3] put red disk in rod 3.
+[Observation] red disk not in rod 2. red disk on top of yellow disk. 
+[Step 4] put gray disk in rod 2.
+[Observation] gray disk not in rod 1. gray disk in rod 2. 
+[Step 5] done putting disks in rods
+
+[Seed] 855
+[Goal] move the cyan disk in rod 3.
+[Initial State] red disk on top of green disk. green disk on top of cyan disk. cyan disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 3.
+[Observation] red disk not on top of green disk. red disk in rod 3. 
+[Step 2] put green disk in rod 2.
+[Observation] green disk not on top of cyan disk. green disk in rod 2. 
+[Step 3] put red disk in rod 2.
+[Observation] red disk not in rod 3. red disk on top of green disk. 
+[Step 4] put cyan disk in rod 3.
+[Observation] cyan disk not in rod 1. cyan disk in rod 3. 
+[Step 5] done putting disks in rods
+
+[Seed] 873
+[Goal] move the brown disk in rod 3.
+[Initial State] red disk on top of gray disk. gray disk on top of brown disk. brown disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 3.
+[Observation] red disk not on top of gray disk. red disk in rod 3. 
+[Step 2] put gray disk in rod 2.
+[Observation] gray disk not on top of brown disk. gray disk in rod 2. 
+[Step 3] put red disk in rod 2.
+[Observation] red disk not in rod 3. red disk on top of gray disk. 
+[Step 4] put brown disk in rod 3.
+[Observation] brown disk not in rod 1. brown disk in rod 3. 
+[Step 5] done putting disks in rods
+
+[Seed] 878
+[Goal] move the gray disk in rod 2.
+[Initial State] cyan disk on top of brown disk. brown disk on top of gray disk. gray disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put cyan disk in rod 2.
+[Observation] cyan disk not on top of brown disk. cyan disk in rod 2. 
+[Step 2] put brown disk in rod 3.
+[Observation] brown disk not on top of gray disk. brown disk in rod 3. 
+[Step 3] put cyan disk in rod 3.
+[Observation] cyan disk not in rod 2. cyan disk on top of brown disk. 
+[Step 4] put gray disk in rod 2.
+[Observation] gray disk not in rod 1. gray disk in rod 2. 
+[Step 5] done putting disks in rods
+
+[Seed] 879
+[Goal] move the green disk in rod 2.
+[Initial State] blue disk on top of brown disk. brown disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put blue disk in rod 2.
+[Observation] blue disk not on top of brown disk. blue disk in rod 2. 
+[Step 2] put brown disk in rod 3.
+[Observation] brown disk not on top of green disk. brown disk in rod 3. 
+[Step 3] put blue disk in rod 3.
+[Observation] blue disk not in rod 2. blue disk on top of brown disk. 
+[Step 4] put green disk in rod 2.
+[Observation] green disk not in rod 1. green disk in rod 2. 
+[Step 5] done putting disks in rods
+
+[Seed] 887
+[Goal] move the gray disk in rod 2.
+[Initial State] yellow disk on top of cyan disk. cyan disk on top of gray disk. gray disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put yellow disk in rod 2.
+[Observation] yellow disk not on top of cyan disk. yellow disk in rod 2. 
+[Step 2] put cyan disk in rod 3.
+[Observation] cyan disk not on top of gray disk. cyan disk in rod 3. 
+[Step 3] put yellow disk in rod 3.
+[Observation] yellow disk not in rod 2. yellow disk on top of cyan disk. 
+[Step 4] put gray disk in rod 2.
+[Observation] gray disk not in rod 1. gray disk in rod 2. 
+[Step 5] done putting disks in rods
+
+[Seed] 892
+[Goal] move the cyan disk in rod 2.
+[Initial State] red disk on top of green disk. green disk on top of cyan disk. cyan disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put red disk in rod 2.
+[Observation] red disk not on top of green disk. red disk in rod 2. 
+[Step 2] put green disk in rod 3.
+[Observation] green disk not on top of cyan disk. green disk in rod 3. 
+[Step 3] put red disk in rod 3.
+[Observation] red disk not in rod 2. red disk on top of green disk. 
+[Step 4] put cyan disk in rod 2.
+[Observation] cyan disk not in rod 1. cyan disk in rod 2. 
+[Step 5] done putting disks in rods
+
+[Seed] 891
+[Goal] move the green disk in rod 2.
+[Initial State] gray disk on top of yellow disk. yellow disk on top of green disk. green disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put gray disk in rod 2.
+[Observation] gray disk not on top of yellow disk. gray disk in rod 2. 
+[Step 2] put yellow disk in rod 3.
+[Observation] yellow disk not on top of green disk. yellow disk in rod 3. 
+[Step 3] put gray disk in rod 3.
+[Observation] gray disk not in rod 2. gray disk on top of yellow disk. 
+[Step 4] put green disk in rod 2.
+[Observation] green disk not in rod 1. green disk in rod 2. 
+[Step 5] done putting disks in rods
+
+[Seed] 899
+[Goal] move the blue disk in rod 3.
+[Initial State] cyan disk on top of red disk. red disk on top of blue disk. blue disk in rod 1. The disks can be moved in rod 1, rod 2, rod 3. 
+[Step 1] put cyan disk in rod 3.
+[Observation] cyan disk not on top of red disk. cyan disk in rod 3. 
+[Step 2] put red disk in rod 2.
+[Observation] red disk not on top of blue disk. red disk in rod 2. 
+[Step 3] put cyan disk in rod 2.
+[Observation] cyan disk not in rod 3. cyan disk on top of red disk. 
+[Step 4] put blue disk in rod 3.
+[Observation] blue disk not in rod 1. blue disk in rod 3. 
+[Step 5] done putting disks in rods
+

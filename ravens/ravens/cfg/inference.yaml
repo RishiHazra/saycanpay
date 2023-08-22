@@ -1,0 +1,44 @@
+# Data Generation
+
+defaults:
+  - config
+
+root_dir: ''
+
+hydra:
+  run:
+    dir: ${root_dir}
+
+save_dir: ${root_dir}/${task}/data/${planner.agent_type}-plans/${mode}  # where to store plans from oracle, lm
+assets_root: ${root_dir}/ravens/environments/assets/
+disp: False  # visualize PyBullet
+shared_memory: False
+task: towers-of-hanoi-seq  # put-block-in-bowl, towers-of-hanoi-seq
+mode: test-generalize  # train, test-success, test-optimal, test-generalize
+n: 500 # number of demos to generate
+save_data: False  # write episodes to disk, default=False
+parallel: True  # use multiprocessing for data generation
+max_steps: 10
+
+# planner type
+planner:
+  agent_type: lm  # oracle, lm
+  model_name: vicuna  # lm model type flan_t5, vicuna
+  decoding_type: greedy_token  # greedy_token, greedy_action, beam_action
+  decoding_score: say  # say, say_can, say_can_pay
+
+dataset:
+  type: 'single' # 'single' or 'multi'
+  images: True
+  cache: True # load episodes to memory instead of reading from disk
+  augment:
+    theta_sigma: 60 # rotation sigma in degrees; N(mu = 0, sigma = theta_sigma).
+
+# record videos (super slow)
+record:
+  save_video: False
+  save_video_path: ${data_dir}/${task}-${mode}/videos/
+  add_text: True
+  fps: 20
+  video_height: 640
+  video_width: 720

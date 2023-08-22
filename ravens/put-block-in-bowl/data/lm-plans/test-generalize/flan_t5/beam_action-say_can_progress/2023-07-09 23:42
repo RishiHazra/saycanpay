@@ -1,0 +1,482 @@
+[Seed] 951
+[Goal] put the white blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, red bowl 4, red bowl 5, white block 1, white block 2, white block 3, white block 4, white block 5, blue bowl 1, green block 1, orange block 1, yellow block 1.
+[Step 1] place white block 1 in red bowl 1
+[Step 2] place white block 5 in red bowl 5
+[Step 3] place white block 2 in red bowl 2
+[Step 4] place white block 3 in red bowl 3
+[Step 5] done placing blocks in bowls
+
+[Seed] 952
+[Goal] put the blue blocks in pink bowls.
+[Initial State] There is a pink bowl 1, pink bowl 2, pink bowl 3, pink bowl 4, pink bowl 5, blue block 1, blue block 2, blue block 3, blue block 4, blue block 5, red block 1, green block 1, orange bowl 1, yellow block 1.
+[Step 1] place blue block 1 in pink bowl 1
+[Step 2] place blue block 2 in pink bowl 2
+[Step 3] place blue block 3 in pink bowl 4
+[Step 4] place blue block 4 in pink bowl 5
+[Step 5] place blue block 5 in pink bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 953
+[Goal] put the blue blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, red bowl 4, red bowl 5, blue block 1, blue block 2, blue block 3, blue block 4, blue block 5, green block 1, orange block 1, yellow bowl 1, purple block 1.
+[Step 1] place blue block 1 in red bowl 1
+[Step 2] place blue block 2 in red bowl 4
+[Step 3] place blue block 3 in red bowl 5
+[Step 4] place blue block 4 in red bowl 5
+[Step 5] place blue block 5 in red bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 954
+[Goal] put the red blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, purple bowl 6, red block 1, red block 2, red block 3, red block 4, red block 5, red block 6, blue block 1, green block 1, orange bowl 1, yellow block 1.
+[Step 1] place red block 1 in purple bowl 2
+[Step 2] place red block 2 in purple bowl 3
+[Step 3] place red block 3 in purple bowl 4
+[Step 4] place red block 4 in purple bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 955
+[Goal] put the pink blocks in orange bowls.
+[Initial State] There is a orange bowl 1, orange bowl 2, orange bowl 3, orange bowl 4, orange bowl 5, orange bowl 6, pink block 1, pink block 2, pink block 3, pink block 4, pink block 5, pink block 6, blue block 1, red block 1, green block 1, yellow block 1.
+[Step 1] place pink block 1 in orange bowl 1
+[Step 2] place pink block 2 in orange bowl 2
+[Step 3] place pink block 3 in orange bowl 3
+[Step 4] place pink block 4 in orange bowl 4
+[Step 5] done placing blocks in bowls
+
+[Seed] 956
+[Goal] put the pink blocks in orange bowls.
+[Initial State] There is a orange bowl 1, orange bowl 2, orange bowl 3, orange bowl 4, orange bowl 5, orange bowl 6, pink block 1, pink block 2, pink block 3, pink block 4, pink block 5, pink block 6, blue bowl 1, red block 1, green block 1, yellow bowl 1.
+[Step 1] place pink block 1 in orange bowl 1
+[Step 2] place pink block 2 in orange bowl 2
+[Step 3] place pink block 3 in orange bowl 3
+[Step 4] place pink block 4 in orange bowl 4
+[Step 5] done placing blocks in bowls
+
+[Seed] 957
+[Goal] put the orange blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, red bowl 4, red bowl 5, red bowl 6, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, blue bowl 1, green block 1, yellow bowl 1, purple bowl 1.
+[Step 1] place orange block 1 in red bowl 1
+[Step 2] place orange block 3 in red bowl 4
+[Step 3] place orange block 4 in red bowl 5
+[Step 4] place orange block 2 in red bowl 2
+[Step 5] done placing blocks in bowls
+
+[Seed] 958
+[Goal] put the green blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, green block 1, green block 2, green block 3, green block 4, green block 5, blue block 1, red bowl 1, orange block 1, yellow bowl 1.
+[Step 1] place green block 1 in purple bowl 5
+[Step 2] place green block 2 in purple bowl 4
+[Step 3] place green block 3 in purple bowl 3
+[Step 4] place green block 4 in purple bowl 2
+[Step 5] place green block 5 in purple bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 959
+[Goal] put the orange blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, red bowl 4, red bowl 5, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, blue bowl 1, green bowl 1, yellow block 1, purple bowl 1.
+[Step 1] place orange block 1 in red bowl 1
+[Step 2] place orange block 5 in red bowl 4
+[Step 3] place orange block 2 in red bowl 3
+[Step 4] place orange block 3 in red bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 960
+[Goal] put the orange blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, purple bowl 6, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, blue bowl 1, red bowl 1, green bowl 1, yellow bowl 1.
+[Step 1] place orange block 1 in purple bowl 5
+[Step 2] place orange block 2 in purple bowl 4
+[Step 3] place orange block 3 in purple bowl 3
+[Step 4] place orange block 4 in purple bowl 6
+[Step 5] done placing blocks in bowls
+
+[Seed] 961
+[Goal] put the pink blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, pink block 1, pink block 2, pink block 3, pink block 4, pink block 5, blue block 1, red block 1, green block 1, orange bowl 1.
+[Step 1] place pink block 1 in purple bowl 1
+[Step 2] place pink block 2 in purple bowl 2
+[Step 3] place pink block 3 in purple bowl 3
+[Step 4] place pink block 4 in purple bowl 5
+[Step 5] place pink block 5 in purple bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 962
+[Goal] put the green blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, purple bowl 6, green block 1, green block 2, green block 3, green block 4, green block 5, blue bowl 1, red block 1, orange block 1, yellow block 1.
+[Step 1] place green block 1 in purple bowl 1
+[Step 2] place green block 2 in purple bowl 2
+[Step 3] place green block 3 in purple bowl 3
+[Step 4] place green block 4 in purple bowl 4
+[Step 5] done placing blocks in bowls
+
+[Seed] 963
+[Goal] put the purple blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, green bowl 5, green bowl 6, purple block 1, purple block 2, purple block 3, purple block 4, purple block 5, blue block 1, red block 1, orange bowl 1, yellow block 1.
+[Step 1] place purple block 1 in green bowl 1
+[Step 2] place purple block 2 in green bowl 3
+[Step 3] place purple block 3 in green bowl 4
+[Step 4] place purple block 4 in green bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 964
+[Goal] put the white blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, white block 1, white block 2, white block 3, white block 4, white block 5, blue block 1, red bowl 1, green bowl 1, orange bowl 1.
+[Step 1] place white block 1 in purple bowl 5
+[Step 2] place white block 2 in purple bowl 5
+[Step 3] place white block 3 in purple bowl 4
+[Step 4] place white block 4 in purple bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 965
+[Goal] put the red blocks in orange bowls.
+[Initial State] There is a orange bowl 1, orange bowl 2, orange bowl 3, orange bowl 4, orange bowl 5, orange bowl 6, red block 1, red block 2, red block 3, red block 4, red block 5, blue bowl 1, green block 1, yellow block 1, purple block 1.
+[Step 1] place red block 1 in orange bowl 2
+[Step 2] place red block 2 in orange bowl 3
+[Step 3] place red block 3 in orange bowl 4
+[Step 4] place red block 4 in orange bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 966
+[Goal] put the blue blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, green bowl 5, blue block 1, blue block 2, blue block 3, blue block 4, blue block 5, red bowl 1, orange bowl 1, yellow block 1, purple bowl 1.
+[Step 1] place blue block 1 in green bowl 1
+[Step 2] place blue block 2 in green bowl 2
+[Step 3] place blue block 3 in green bowl 4
+[Step 4] place blue block 4 in green bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 967
+[Goal] put the purple blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, blue bowl 4, blue bowl 5, blue bowl 6, purple block 1, purple block 2, purple block 3, purple block 4, purple block 5, red bowl 1, green bowl 1, orange bowl 1, yellow bowl 1.
+[Step 1] place purple block 2 in blue bowl 1
+[Step 2] place purple block 3 in blue bowl 3
+[Step 3] place purple block 4 in blue bowl 4
+[Step 4] place purple block 5 in blue bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 968
+[Goal] put the white blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, blue bowl 4, blue bowl 5, blue bowl 6, white block 1, white block 2, white block 3, white block 4, white block 5, red block 1, green block 1, orange bowl 1, yellow bowl 1.
+[Step 1] place white block 1 in blue bowl 1
+[Step 2] place white block 2 in blue bowl 2
+[Step 3] place white block 3 in blue bowl 3
+[Step 4] place white block 4 in blue bowl 4
+[Step 5] place white block 5 in blue bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 969
+[Goal] put the orange blocks in pink bowls.
+[Initial State] There is a pink bowl 1, pink bowl 2, pink bowl 3, pink bowl 4, pink bowl 5, pink bowl 6, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, orange block 6, blue bowl 1, red block 1, green bowl 1, yellow bowl 1.
+[Step 1] place orange block 1 in pink bowl 6
+[Step 2] place orange block 2 in pink bowl 4
+[Step 3] place orange block 3 in pink bowl 5
+[Step 4] place orange block 4 in pink bowl 1
+[Step 5] done placing blocks in bowls
+
+[Seed] 970
+[Goal] put the white blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, green bowl 5, green bowl 6, white block 1, white block 2, white block 3, white block 4, white block 5, white block 6, blue bowl 1, red block 1, orange bowl 1, yellow block 1.
+[Step 1] place white block 1 in green bowl 1
+[Step 2] place white block 2 in green bowl 2
+[Step 3] place white block 3 in green bowl 3
+[Step 4] place white block 4 in green bowl 5
+[Step 5] place white block 5 in green bowl 6
+[Step 6] done placing blocks in bowls
+
+[Seed] 971
+[Goal] put the green blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, red bowl 4, red bowl 5, green block 1, green block 2, green block 3, green block 4, green block 5, blue block 1, orange bowl 1, yellow bowl 1, purple block 1.
+[Step 1] place green block 1 in red bowl 3
+[Step 2] place green block 2 in red bowl 5
+[Step 3] place green block 3 in red bowl 4
+[Step 4] place green block 4 in red bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 972
+[Goal] put the pink blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, blue bowl 4, blue bowl 5, pink block 1, pink block 2, pink block 3, pink block 4, pink block 5, red block 1, green block 1, orange block 1, yellow block 1.
+[Step 1] place pink block 1 in blue bowl 1
+[Step 2] place pink block 2 in blue bowl 2
+[Step 3] place pink block 3 in blue bowl 4
+[Step 4] place pink block 4 in blue bowl 5
+[Step 5] place pink block 5 in blue bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 973
+[Goal] put the red blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, red block 1, red block 2, red block 3, red block 4, red block 5, blue bowl 1, green bowl 1, orange block 1, yellow bowl 1.
+[Step 1] place red block 1 in purple bowl 1
+[Step 2] place red block 2 in purple bowl 2
+[Step 3] place red block 3 in purple bowl 3
+[Step 4] place red block 4 in purple bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 974
+[Goal] put the green blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, green block 1, green block 2, green block 3, green block 4, green block 5, blue bowl 1, red bowl 1, orange block 1, yellow bowl 1.
+[Step 1] place green block 1 in purple bowl 5
+[Step 2] place green block 2 in purple bowl 4
+[Step 3] place green block 3 in purple bowl 3
+[Step 4] place green block 4 in purple bowl 2
+[Step 5] place green block 5 in purple bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 975
+[Goal] put the orange blocks in pink bowls.
+[Initial State] There is a pink bowl 1, pink bowl 2, pink bowl 3, pink bowl 4, pink bowl 5, pink bowl 6, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, orange block 6, blue bowl 1, red bowl 1, green block 1, yellow bowl 1.
+[Step 1] place orange block 1 in pink bowl 6
+[Step 2] place orange block 2 in pink bowl 4
+[Step 3] place orange block 3 in pink bowl 3
+[Step 4] place orange block 4 in pink bowl 2
+[Step 5] place orange block 5 in pink bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 976
+[Goal] put the white blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, green bowl 5, white block 1, white block 2, white block 3, white block 4, white block 5, blue bowl 1, red block 1, orange block 1, yellow bowl 1.
+[Step 1] place white block 1 in green bowl 1
+[Step 2] place white block 2 in green bowl 2
+[Step 3] place white block 3 in green bowl 4
+[Step 4] place white block 4 in green bowl 5
+[Step 5] place white block 5 in green bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 977
+[Goal] put the pink blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, blue bowl 4, blue bowl 5, blue bowl 6, pink block 1, pink block 2, pink block 3, pink block 4, pink block 5, pink block 6, red bowl 1, green block 1, orange bowl 1, yellow block 1.
+[Step 1] place pink block 1 in blue bowl 1
+[Step 2] place pink block 2 in blue bowl 2
+[Step 3] place pink block 3 in blue bowl 3
+[Step 4] place pink block 4 in blue bowl 4
+[Step 5] place pink block 5 in blue bowl 5
+[Step 6] done placing blocks in bowls
+
+[Seed] 978
+[Goal] put the purple blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, red bowl 4, red bowl 5, purple block 1, purple block 2, purple block 3, purple block 4, purple block 5, blue bowl 1, green block 1, orange bowl 1, yellow block 1.
+[Step 1] place purple block 2 in red bowl 2
+[Step 2] place purple block 3 in red bowl 4
+[Step 3] place purple block 5 in red bowl 5
+[Step 4] place purple block 1 in red bowl 1
+[Step 5] done placing blocks in bowls
+
+[Seed] 979
+[Goal] put the orange blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, red bowl 4, red bowl 5, red bowl 6, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, blue block 1, green bowl 1, yellow block 1, purple block 1.
+[Step 1] place orange block 1 in red bowl 1
+[Step 2] place orange block 3 in red bowl 4
+[Step 3] place orange block 4 in red bowl 5
+[Step 4] place orange block 2 in red bowl 2
+[Step 5] done placing blocks in bowls
+
+[Seed] 980
+[Goal] put the orange blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, green bowl 5, green bowl 6, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, orange block 6, blue block 1, red bowl 1, yellow bowl 1, purple bowl 1.
+[Step 1] place orange block 2 in green bowl 2
+[Step 2] place orange block 3 in green bowl 3
+[Step 3] place orange block 4 in green bowl 4
+[Step 4] place orange block 5 in green bowl 5
+[Step 5] place orange block 1 in green bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 981
+[Goal] put the red blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, blue bowl 4, blue bowl 5, red block 1, red block 2, red block 3, red block 4, red block 5, green bowl 1, orange bowl 1, yellow block 1, purple block 1.
+[Step 1] place red block 1 in blue bowl 1
+[Step 2] place red block 2 in blue bowl 2
+[Step 3] place red block 3 in blue bowl 3
+[Step 4] place red block 4 in blue bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 982
+[Goal] put the purple blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, blue bowl 4, blue bowl 5, purple block 1, purple block 2, purple block 3, purple block 4, purple block 5, red block 1, green bowl 1, orange block 1, yellow block 1.
+[Step 1] place purple block 1 in blue bowl 1
+[Step 2] place purple block 2 in blue bowl 2
+[Step 3] place purple block 3 in blue bowl 4
+[Step 4] place purple block 4 in blue bowl 5
+[Step 5] place purple block 5 in blue bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 983
+[Goal] put the pink blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, purple bowl 6, pink block 1, pink block 2, pink block 3, pink block 4, pink block 5, blue bowl 1, red bowl 1, green block 1, orange bowl 1.
+[Step 1] place pink block 1 in purple bowl 5
+[Step 2] place pink block 2 in purple bowl 4
+[Step 3] place pink block 3 in purple bowl 3
+[Step 4] place pink block 4 in purple bowl 6
+[Step 5] done placing blocks in bowls
+
+[Seed] 984
+[Goal] put the white blocks in pink bowls.
+[Initial State] There is a pink bowl 1, pink bowl 2, pink bowl 3, pink bowl 4, pink bowl 5, white block 1, white block 2, white block 3, white block 4, white block 5, blue block 1, red block 1, green bowl 1, orange bowl 1.
+[Step 1] place white block 1 in pink bowl 2
+[Step 2] place white block 2 in pink bowl 3
+[Step 3] place white block 3 in pink bowl 4
+[Step 4] place white block 4 in pink bowl 5
+[Step 5] place white block 5 in pink bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 985
+[Goal] put the green blocks in red bowls.
+[Initial State] There is a red bowl 1, red bowl 2, red bowl 3, red bowl 4, red bowl 5, green block 1, green block 2, green block 3, green block 4, green block 5, blue bowl 1, orange block 1, yellow bowl 1, purple block 1.
+[Step 1] place green block 1 in red bowl 4
+[Step 2] place green block 2 in red bowl 3
+[Step 3] place green block 3 in red bowl 5
+[Step 4] place green block 4 in red bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 986
+[Goal] put the blue blocks in white bowls.
+[Initial State] There is a white bowl 1, white bowl 2, white bowl 3, white bowl 4, white bowl 5, blue block 1, blue block 2, blue block 3, blue block 4, blue block 5, red bowl 1, green bowl 1, orange bowl 1, yellow bowl 1.
+[Step 1] place blue block 1 in white bowl 1
+[Step 2] place blue block 2 in white bowl 2
+[Step 3] place blue block 3 in white bowl 3
+[Step 4] place blue block 4 in white bowl 5
+[Step 5] place blue block 5 in white bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 987
+[Goal] put the purple blocks in white bowls.
+[Initial State] There is a white bowl 1, white bowl 2, white bowl 3, white bowl 4, white bowl 5, white bowl 6, purple block 1, purple block 2, purple block 3, purple block 4, purple block 5, purple block 6, blue block 1, red block 1, green bowl 1, orange block 1.
+[Step 1] place purple block 1 in white bowl 5
+[Step 2] place purple block 2 in white bowl 4
+[Step 3] place purple block 3 in white bowl 3
+[Step 4] place purple block 4 in white bowl 6
+[Step 5] place purple block 5 in white bowl 5
+[Step 6] place purple block 6 in white bowl 5
+[Step 7] done placing blocks in bowls
+
+[Seed] 988
+[Goal] put the green blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, purple bowl 6, green block 1, green block 2, green block 3, green block 4, green block 5, green block 6, blue bowl 1, red block 1, orange block 1, yellow block 1.
+[Step 1] place green block 1 in purple bowl 5
+[Step 2] place green block 2 in purple bowl 4
+[Step 3] place green block 3 in purple bowl 3
+[Step 4] place green block 4 in purple bowl 6
+[Step 5] done placing blocks in bowls
+
+[Seed] 989
+[Goal] put the white blocks in blue bowls.
+[Initial State] There is a blue bowl 1, blue bowl 2, blue bowl 3, blue bowl 4, blue bowl 5, blue bowl 6, white block 1, white block 2, white block 3, white block 4, white block 5, red block 1, green bowl 1, orange block 1, yellow block 1.
+[Step 1] place white block 1 in blue bowl 1
+[Step 2] place white block 2 in blue bowl 2
+[Step 3] place white block 3 in blue bowl 3
+[Step 4] place white block 4 in blue bowl 5
+[Step 5] place white block 5 in blue bowl 6
+[Step 6] done placing blocks in bowls
+
+[Seed] 990
+[Goal] put the white blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, white block 1, white block 2, white block 3, white block 4, white block 5, blue block 1, red bowl 1, green block 1, orange bowl 1.
+[Step 1] place white block 1 in purple bowl 1
+[Step 2] place white block 2 in purple bowl 2
+[Step 3] place white block 3 in purple bowl 4
+[Step 4] place white block 4 in purple bowl 5
+[Step 5] place white block 5 in purple bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 991
+[Goal] put the red blocks in orange bowls.
+[Initial State] There is a orange bowl 1, orange bowl 2, orange bowl 3, orange bowl 4, orange bowl 5, red block 1, red block 2, red block 3, red block 4, red block 5, blue bowl 1, green bowl 1, yellow bowl 1, purple block 1.
+[Step 1] place red block 1 in orange bowl 2
+[Step 2] place red block 2 in orange bowl 3
+[Step 3] place red block 3 in orange bowl 4
+[Step 4] place red block 4 in orange bowl 5
+[Step 5] place red block 5 in orange bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 992
+[Goal] put the red blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, green bowl 5, red block 1, red block 2, red block 3, red block 4, red block 5, blue bowl 1, orange block 1, yellow block 1, purple block 1.
+[Step 1] place red block 1 in green bowl 1
+[Step 2] place red block 2 in green bowl 2
+[Step 3] place red block 3 in green bowl 3
+[Step 4] place red block 4 in green bowl 5
+[Step 5] place red block 5 in green bowl 5
+[Step 6] done placing blocks in bowls
+
+[Seed] 993
+[Goal] put the blue blocks in white bowls.
+[Initial State] There is a white bowl 1, white bowl 2, white bowl 3, white bowl 4, white bowl 5, blue block 1, blue block 2, blue block 3, blue block 4, blue block 5, red bowl 1, green bowl 1, orange block 1, yellow block 1.
+[Step 1] place blue block 1 in white bowl 1
+[Step 2] place blue block 2 in white bowl 2
+[Step 3] place blue block 3 in white bowl 3
+[Step 4] place blue block 4 in white bowl 5
+[Step 5] place blue block 5 in white bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 994
+[Goal] put the red blocks in purple bowls.
+[Initial State] There is a purple bowl 1, purple bowl 2, purple bowl 3, purple bowl 4, purple bowl 5, red block 1, red block 2, red block 3, red block 4, red block 5, blue bowl 1, green block 1, orange bowl 1, yellow block 1.
+[Step 1] place red block 1 in purple bowl 1
+[Step 2] place red block 2 in purple bowl 2
+[Step 3] place red block 3 in purple bowl 3
+[Step 4] place red block 4 in purple bowl 5
+[Step 5] done placing blocks in bowls
+
+[Seed] 995
+[Goal] put the red blocks in green bowls.
+[Initial State] There is a green bowl 1, green bowl 2, green bowl 3, green bowl 4, green bowl 5, green bowl 6, red block 1, red block 2, red block 3, red block 4, red block 5, red block 6, blue block 1, orange bowl 1, yellow block 1, purple block 1.
+[Step 1] place red block 1 in green bowl 1
+[Step 2] place red block 2 in green bowl 2
+[Step 3] place red block 3 in green bowl 3
+[Step 4] place red block 4 in green bowl 4
+[Step 5] place red block 5 in green bowl 5
+[Step 6] place red block 6 in green bowl 6
+[Step 7] done placing blocks in bowls
+
+[Seed] 996
+[Goal] put the orange blocks in white bowls.
+[Initial State] There is a white bowl 1, white bowl 2, white bowl 3, white bowl 4, white bowl 5, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, blue bowl 1, red block 1, green block 1, yellow bowl 1.
+[Step 1] place orange block 1 in white bowl 1
+[Step 2] place orange block 2 in white bowl 3
+[Step 3] place orange block 3 in white bowl 4
+[Step 4] place orange block 4 in white bowl 5
+[Step 5] place orange block 5 in white bowl 1
+[Step 6] place orange block 1 in white bowl 1
+[Step 7] done placing blocks in bowls
+
+[Seed] 997
+[Goal] put the orange blocks in white bowls.
+[Initial State] There is a white bowl 1, white bowl 2, white bowl 3, white bowl 4, white bowl 5, orange block 1, orange block 2, orange block 3, orange block 4, orange block 5, blue bowl 1, red block 1, green block 1, yellow block 1.
+[Step 1] place orange block 1 in white bowl 1
+[Step 2] place orange block 2 in white bowl 3
+[Step 3] place orange block 3 in white bowl 4
+[Step 4] place orange block 4 in white bowl 5
+[Step 5] place orange block 5 in white bowl 1
+[Step 6] place orange block 1 in white bowl 1
+[Step 7] done placing blocks in bowls
+
+[Seed] 998
+[Goal] put the red blocks in orange bowls.
+[Initial State] There is a orange bowl 1, orange bowl 2, orange bowl 3, orange bowl 4, orange bowl 5, orange bowl 6, red block 1, red block 2, red block 3, red block 4, red block 5, blue block 1, green bowl 1, yellow bowl 1, purple block 1.
+[Step 1] place red block 1 in orange bowl 2
+[Step 2] place red block 2 in orange bowl 3
+[Step 3] place red block 3 in orange bowl 5
+[Step 4] place red block 4 in orange bowl 6
+[Step 5] place red block 5 in orange bowl 5
+[Step 6] done placing blocks in bowls
+
+[Seed] 999
+[Goal] put the white blocks in pink bowls.
+[Initial State] There is a pink bowl 1, pink bowl 2, pink bowl 3, pink bowl 4, pink bowl 5, white block 1, white block 2, white block 3, white block 4, white block 5, blue block 1, red bowl 1, green block 1, orange block 1.
+[Step 1] place white block 1 in pink bowl 1
+[Step 2] place white block 2 in pink bowl 2
+[Step 3] place white block 3 in pink bowl 4
+[Step 4] place white block 4 in pink bowl 5
+[Step 5] place white block 5 in pink bowl 1
+[Step 6] done placing blocks in bowls
+
+[Seed] 1000
+[Goal] put the white blocks in orange bowls.
+[Initial State] There is a orange bowl 1, orange bowl 2, orange bowl 3, orange bowl 4, orange bowl 5, orange bowl 6, white block 1, white block 2, white block 3, white block 4, white block 5, white block 6, blue bowl 1, red block 1, green block 1, yellow bowl 1.
+[Step 1] place white block 1 in orange bowl 1
+[Step 2] place white block 2 in orange bowl 2
+[Step 3] place white block 3 in orange bowl 3
+[Step 4] place white block 4 in orange bowl 4
+[Step 5] place white block 5 in orange bowl 5
+[Step 6] place white block 6 in orange bowl 6
+[Step 7] done placing blocks in bowls
+

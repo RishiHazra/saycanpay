@@ -1,0 +1,516 @@
+[Seed] 551
+[Goal] pick up the ball.
+[Initial State] Room 1 has grey ball. Room 2 has yellow key. Room 3 has agent, red key. Room 4 has green key. The yellow door connecting Room 1 and Room 2 is locked. The green door connecting Room 2 and Room 3 is locked. The red door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up grey ball
+[Step 2] drop ball in void
+[Step 3] pick up red key
+[Step 4] toggle red door
+[Step 5] drop key in void
+[Step 6] pick up grey ball
+[Step 7] done picking up
+
+[Seed] 552
+[Goal] pick up the blue box.
+[Initial State] Room 1 has purple key, agent, purple ball, grey ball, red key, grey key. Room 2 has blue box. The grey door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up purple key
+[Step 2] toggle grey door
+[Step 3] drop key in void
+[Step 4] pick up blue box
+[Step 5] done picking up
+
+[Seed] 553
+[Goal] pick up the red box.
+[Initial State] Room 1 has agent, purple ball, purple box, yellow key, red key. Room 2 has grey ball, red box. The yellow door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up red key
+[Step 2] toggle yellow door
+[Step 3] drop key in void
+[Step 4] pick up red box
+[Step 5] done picking up
+
+[Seed] 554
+[Goal] pick up a box.
+[Initial State] Room 1 has green box, blue key, grey box, red key, blue ball, agent, purple key. Room 2 has yellow box. The blue door connecting Room 1 and Room 2 is locked. The blue ball is blocking the door. 
+[Step 1] pick up blue ball
+[Step 2] drop ball in void
+[Step 3] pick up blue key
+[Step 4] toggle blue door
+[Step 5] done picking up
+
+[Seed] 555
+[Goal] pick up the green box.
+[Initial State] Room 1 has purple key, yellow box, agent, purple box, blue box. Room 2 has green box, yellow key. The purple door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up purple key
+[Step 2] toggle purple door
+[Step 3] drop key in void
+[Step 4] pick up green box
+[Step 5] done picking up
+
+[Seed] 556
+[Goal] pick up the ball.
+[Initial State] Room 1 has red ball. Room 2 has green key. Room 3 has yellow key, agent. Room 4 has blue key. The green door connecting Room 1 and Room 2 is locked. The blue door connecting Room 2 and Room 3 is locked. The yellow door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up red ball
+[Step 2] drop ball in void
+[Step 3] pick up green key
+[Step 4] toggle green door
+[Step 5] drop key in void
+[Step 6] pick up yellow key
+[Step 7] toggle yellow door
+[Step 8] drop key in void
+[Step 9] pick up blue key
+[Step 10] toggle blue door
+[Step 11] drop key in void
+[Step 12] done picking up
+
+[Seed] 557
+[Goal] pick up the red box.
+[Initial State] Room 1 has blue ball, grey box, green box, agent, blue key, green key. Room 2 has red box. The green door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up blue key
+[Step 2] toggle green door
+[Step 3] drop key in void
+[Step 4] pick up red box
+[Step 5] done picking up
+
+[Seed] 558
+[Goal] pick up the ball.
+[Initial State] Room 1 has blue ball. Room 2 has red key. Room 3 has grey key, agent. Room 4 has blue key. The red door connecting Room 1 and Room 2 is locked. The blue door connecting Room 2 and Room 3 is locked. The grey door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up blue ball
+[Step 2] drop ball in void
+[Step 3] pick up red key
+[Step 4] toggle red door
+[Step 5] drop key in void
+[Step 6] toggle grey door
+[Step 7] pick up grey key
+[Step 8] drop key in void
+[Step 9] toggle blue door
+[Step 10] pick up blue key
+[Step 11] drop key in void
+[Step 12] toggle grey door
+[Step 13] pick up red key
+[Step 14] toggle red door
+[Step 15] drop key in void
+[Step 16] pick up blue ball
+[Step 17] done picking up
+
+[Seed] 559
+[Goal] pick up the ball.
+[Initial State] Room 1 has yellow ball. Room 2 has purple key. Room 3 has agent, yellow key. Room 4 has red key. The purple door connecting Room 1 and Room 2 is locked. The red door connecting Room 2 and Room 3 is locked. The yellow door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up yellow ball
+[Step 2] drop ball in void
+[Step 3] pick up red key
+[Step 4] toggle red door
+[Step 5] drop key in void
+[Step 6] pick up yellow ball
+[Step 7] done picking up
+
+[Seed] 560
+[Goal] pick up the grey box.
+[Initial State] Room 1 has agent, red key, green key. Room 2 has grey ball, blue box, purple key, grey box. The green door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up red key
+[Step 2] toggle green door
+[Step 3] drop key in void
+[Step 4] pick up grey box
+[Step 5] done picking up
+
+[Seed] 561
+[Goal] pick up the ball.
+[Initial State] Room 1 has blue ball. Room 2 has blue key. Room 3 has purple key, agent. Room 4 has red key. The blue door connecting Room 1 and Room 2 is locked. The red door connecting Room 2 and Room 3 is locked. The purple door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up blue ball
+[Step 2] drop ball in void
+[Step 3] pick up purple key
+[Step 4] toggle purple door
+[Step 5] drop key in void
+[Step 6] pick up blue ball
+[Step 7] done picking up
+
+[Seed] 562
+[Goal] pick up the purple box.
+[Initial State] Room 1 has green ball, blue ball, green key, agent, yellow ball. Room 2 has purple box, purple key. The green door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up green key
+[Step 2] toggle green door
+[Step 3] drop key in void
+[Step 4] pick up purple box
+[Step 5] done picking up
+
+[Seed] 563
+[Goal] pick up the green box.
+[Initial State] Room 1 has yellow key, purple key, agent. Room 2 has green box, purple box, purple ball, grey ball. The yellow door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up yellow key
+[Step 2] toggle yellow door
+[Step 3] drop key in void
+[Step 4] pick up green box
+[Step 5] done picking up
+
+[Seed] 564
+[Goal] pick up the purple box.
+[Initial State] Room 1 has grey key, grey ball, green key, agent, blue box. Room 2 has purple box, yellow ball. The grey door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up grey key
+[Step 2] toggle grey door
+[Step 3] drop key in void
+[Step 4] pick up purple box
+[Step 5] done picking up
+
+[Seed] 565
+[Goal] pick up the box.
+[Initial State] Room 1 has blue ball, red key, agent, green ball, green ball, grey key, purple key. Room 2 has grey box. The grey door connecting Room 1 and Room 2 is locked. The blue ball is blocking the door. 
+[Step 1] pick up blue ball
+[Step 2] drop ball in void
+[Step 3] pick up grey key
+[Step 4] toggle grey door
+[Step 5] done picking up
+
+[Seed] 566
+[Goal] pick up the box.
+[Initial State] Room 1 has green key, red ball, agent, yellow ball, green ball. Room 2 has grey key, yellow box, grey ball. The green door connecting Room 1 and Room 2 is locked. The yellow ball is blocking the door. 
+[Step 1] pick up green key
+[Step 2] toggle green door
+[Step 3] pick up yellow box
+[Step 4] drop box in void
+[Step 5] done picking up
+
+[Seed] 567
+[Goal] pick up a box.
+[Initial State] Room 1 has blue key, yellow key, purple key, purple ball, blue box, agent. Room 2 has yellow box, purple box. The yellow door connecting Room 1 and Room 2 is locked. The purple ball is blocking the door. 
+[Step 1] pick up blue key
+[Step 2] toggle yellow door
+[Step 3] pick up blue box
+[Step 4] done picking up
+
+[Seed] 568
+[Goal] pick up a box.
+[Initial State] Room 1 has purple key, purple ball, agent, red key, blue key. Room 2 has yellow box, green key, red box. The blue door connecting Room 1 and Room 2 is locked. The purple ball is blocking the door. 
+[Step 1] pick up purple ball
+[Step 2] drop ball in void
+[Step 3] pick up blue key
+[Step 4] toggle blue door
+[Step 5] pick up blue key
+[Step 6] done picking up
+
+[Seed] 569
+[Goal] pick up the red box.
+[Initial State] Room 1 has purple box, green ball, yellow key, agent. Room 2 has yellow ball, red box, purple key. The yellow door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up yellow key
+[Step 2] toggle yellow door
+[Step 3] drop key in void
+[Step 4] pick up red box
+[Step 5] done picking up
+
+[Seed] 570
+[Goal] pick up the ball.
+[Initial State] Room 1 has yellow ball. Room 2 has grey key. Room 3 has agent, purple key. Room 4 has blue key. The grey door connecting Room 1 and Room 2 is locked. The blue door connecting Room 2 and Room 3 is locked. The purple door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up grey key
+[Step 2] toggle grey door
+[Step 3] drop key in void
+[Step 4] pick up yellow ball
+[Step 5] done picking up
+
+[Seed] 571
+[Goal] pick up the ball.
+[Initial State] Room 1 has red ball. Room 2 has purple key. Room 3 has agent, red key. Room 4 has grey key. The purple door connecting Room 1 and Room 2 is locked. The grey door connecting Room 2 and Room 3 is locked. The red door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up red ball
+[Step 2] drop ball in void
+[Step 3] pick up purple key
+[Step 4] toggle purple door
+[Step 5] pick up red key
+[Step 6] toggle red door
+[Step 7] drop key in void
+[Step 8] pick up grey key
+[Step 9] toggle grey door
+[Step 10] drop key in void
+[Step 11] done picking up
+
+[Seed] 572
+[Goal] pick up the ball.
+[Initial State] Room 1 has blue ball. Room 2 has yellow key. Room 3 has red key, agent. Room 4 has green key. The yellow door connecting Room 1 and Room 2 is locked. The green door connecting Room 2 and Room 3 is locked. The red door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up blue ball
+[Step 2] drop ball in void
+[Step 3] pick up green key
+[Step 4] toggle green door
+[Step 5] drop key in void
+[Step 6] pick up blue ball
+[Step 7] done picking up
+
+[Seed] 573
+[Goal] pick up the box.
+[Initial State] Room 1 has purple key, blue ball, agent, red key, purple ball, blue key. Room 2 has blue box, red ball. The blue door connecting Room 1 and Room 2 is locked. The purple ball is blocking the door. 
+[Step 1] pick up purple key
+[Step 2] drop ball in void
+[Step 3] pick up blue key
+[Step 4] toggle blue door
+[Step 5] drop key in void
+[Step 6] pick up blue box
+[Step 7] done picking up
+
+[Seed] 574
+[Goal] pick up the purple box.
+[Initial State] Room 1 has purple key, agent. Room 2 has green ball, grey box, blue key, purple box, green key. The purple door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up purple key
+[Step 2] toggle purple door
+[Step 3] pick up purple box
+[Step 4] done picking up
+
+[Seed] 575
+[Goal] pick up the ball.
+[Initial State] Room 1 has red ball. Room 2 has red key. Room 3 has agent, purple key. Room 4 has grey key. The red door connecting Room 1 and Room 2 is locked. The grey door connecting Room 2 and Room 3 is locked. The purple door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up red key
+[Step 2] toggle red door
+[Step 3] pick up red ball
+[Step 4] done picking up
+
+[Seed] 576
+[Goal] pick up the red box.
+[Initial State] Room 1 has grey key, grey box, agent, red key. Room 2 has grey ball, green key, red box. The red door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up red key
+[Step 2] toggle red door
+[Step 3] drop key in void
+[Step 4] pick up red box
+[Step 5] done picking up
+
+[Seed] 577
+[Goal] pick up the ball.
+[Initial State] Room 1 has blue ball. Room 2 has purple key. Room 3 has yellow key, agent. Room 4 has blue key. The purple door connecting Room 1 and Room 2 is locked. The blue door connecting Room 2 and Room 3 is locked. The yellow door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up blue key
+[Step 2] toggle blue door
+[Step 3] pick up blue ball
+[Step 4] drop ball in void
+[Step 5] pick up yellow key
+[Step 6] toggle yellow door
+[Step 7] drop key in void
+[Step 8] pick up blue ball
+[Step 9] done picking up
+
+[Seed] 578
+[Goal] pick up the ball.
+[Initial State] Room 1 has purple ball. Room 2 has blue key. Room 3 has yellow key, agent. Room 4 has green key. The blue door connecting Room 1 and Room 2 is locked. The green door connecting Room 2 and Room 3 is locked. The yellow door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up yellow key
+[Step 2] toggle yellow door
+[Step 3] drop key in void
+[Step 4] pick up purple ball
+[Step 5] drop ball in void
+[Step 6] done picking up
+
+[Seed] 579
+[Goal] pick up the ball.
+[Initial State] Room 1 has purple ball. Room 2 has green key. Room 3 has blue key, agent. Room 4 has yellow key. The green door connecting Room 1 and Room 2 is locked. The yellow door connecting Room 2 and Room 3 is locked. The blue door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up purple ball
+[Step 2] drop ball in void
+[Step 3] pick up green key
+[Step 4] toggle green door
+[Step 5] drop key in void
+[Step 6] pick up blue key
+[Step 7] toggle blue door
+[Step 8] drop key in void
+[Step 9] pick up yellow key
+[Step 10] toggle yellow door
+[Step 11] drop key in void
+[Step 12] pick up purple ball
+[Step 13] done picking up
+
+[Seed] 580
+[Goal] pick up the box.
+[Initial State] Room 1 has agent, red ball, yellow ball, green ball, green key, grey key. Room 2 has yellow key, blue box. The green door connecting Room 1 and Room 2 is locked. The red ball is blocking the door. 
+[Step 1] pick up red ball
+[Step 2] drop ball in void
+[Step 3] pick up green key
+[Step 4] toggle green door
+[Step 5] drop key in void
+[Step 6] pick up blue box
+[Step 7] done picking up
+
+[Seed] 581
+[Goal] pick up the ball.
+[Initial State] Room 1 has grey ball. Room 2 has purple key. Room 3 has agent, red key. Room 4 has blue key. The purple door connecting Room 1 and Room 2 is locked. The blue door connecting Room 2 and Room 3 is locked. The red door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up blue key
+[Step 2] toggle blue door
+[Step 3] pick up grey ball
+[Step 4] drop ball in void
+[Step 5] pick up red key
+[Step 6] toggle red door
+[Step 7] pick up red key
+[Step 8] done picking up
+
+[Seed] 582
+[Goal] pick up the ball.
+[Initial State] Room 1 has red ball. Room 2 has grey key. Room 3 has agent, red key. Room 4 has blue key. The grey door connecting Room 1 and Room 2 is locked. The blue door connecting Room 2 and Room 3 is locked. The red door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up red ball
+[Step 2] drop ball in void
+[Step 3] pick up red key
+[Step 4] toggle red door
+[Step 5] drop key in void
+[Step 6] pick up red ball
+[Step 7] done picking up
+
+[Seed] 583
+[Goal] pick up the ball.
+[Initial State] Room 1 has blue ball. Room 2 has blue key. Room 3 has agent, yellow key. Room 4 has grey key. The blue door connecting Room 1 and Room 2 is locked. The grey door connecting Room 2 and Room 3 is locked. The yellow door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up blue ball
+[Step 2] drop ball in void
+[Step 3] pick up grey key
+[Step 4] toggle grey door
+[Step 5] drop key in void
+[Step 6] toggle yellow door
+[Step 7] pick up yellow key
+[Step 8] drop key in void
+[Step 9] done picking up
+
+[Seed] 584
+[Goal] pick up the ball.
+[Initial State] Room 1 has blue ball. Room 2 has grey key. Room 3 has agent, red key. Room 4 has purple key. The grey door connecting Room 1 and Room 2 is locked. The purple door connecting Room 2 and Room 3 is locked. The red door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up red key
+[Step 2] toggle red door
+[Step 3] drop key in void
+[Step 4] pick up blue ball
+[Step 5] drop ball in void
+[Step 6] done picking up
+
+[Seed] 585
+[Goal] pick up the box.
+[Initial State] Room 1 has green ball, green ball, green key, agent. Room 2 has purple ball, red key, green box, grey ball. The green door connecting Room 1 and Room 2 is locked. The green ball is blocking the door. 
+[Step 1] pick up green ball
+[Step 2] drop ball in void
+[Step 3] pick up green key
+[Step 4] toggle green door
+[Step 5] drop key in void
+[Step 6] pick up green box
+[Step 7] done picking up
+
+[Seed] 586
+[Goal] pick up the ball.
+[Initial State] Room 1 has grey ball. Room 2 has green key. Room 3 has agent, blue key. Room 4 has purple key. The green door connecting Room 1 and Room 2 is locked. The purple door connecting Room 2 and Room 3 is locked. The blue door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up grey ball
+[Step 2] drop ball in void
+[Step 3] pick up green key
+[Step 4] toggle green door
+[Step 5] drop key in void
+[Step 6] pick up grey ball
+[Step 7] done picking up
+
+[Seed] 587
+[Goal] pick up the green box.
+[Initial State] Room 1 has agent, grey key, yellow key. Room 2 has green box, grey ball, red box, red ball. The grey door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up grey key
+[Step 2] toggle grey door
+[Step 3] drop key in void
+[Step 4] pick up green box
+[Step 5] done picking up
+
+[Seed] 588
+[Goal] pick up the yellow box.
+[Initial State] Room 1 has purple ball, agent, grey key. Room 2 has red key, yellow box, green box, blue key. The grey door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up grey key
+[Step 2] toggle grey door
+[Step 3] pick up yellow box
+[Step 4] done picking up
+
+[Seed] 589
+[Goal] pick up a box.
+[Initial State] Room 1 has agent, yellow box, blue box, purple key, red ball. Room 2 has green box, blue ball, purple box. The purple door connecting Room 1 and Room 2 is locked. The red ball is blocking the door. 
+[Step 1] pick up purple key
+[Step 2] toggle purple door
+[Step 3] pick up blue ball
+[Step 4] drop ball in void
+[Step 5] done picking up
+
+[Seed] 590
+[Goal] pick up the red box.
+[Initial State] Room 1 has agent, yellow key, red ball. Room 2 has grey key, red box, green box, red key. The yellow door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up yellow key
+[Step 2] toggle yellow door
+[Step 3] drop key in void
+[Step 4] pick up red box
+[Step 5] done picking up
+
+[Seed] 591
+[Goal] pick up the green box.
+[Initial State] Room 1 has red ball, blue key, purple key, yellow key, agent, yellow box. Room 2 has green box. The purple door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up blue key
+[Step 2] toggle purple door
+[Step 3] pick up green box
+[Step 4] done picking up
+
+[Seed] 592
+[Goal] pick up the blue box.
+[Initial State] Room 1 has yellow key, red key, purple ball, purple key, agent. Room 2 has blue box, grey ball. The yellow door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up yellow key
+[Step 2] toggle yellow door
+[Step 3] drop key in void
+[Step 4] pick up blue box
+[Step 5] done picking up
+
+[Seed] 593
+[Goal] pick up a box.
+[Initial State] Room 1 has grey ball, yellow key, red key, agent, green box. Room 2 has red box, grey box, yellow box. The yellow door connecting Room 1 and Room 2 is locked. The grey ball is blocking the door. 
+[Step 1] pick up yellow key
+[Step 2] toggle yellow door
+[Step 3] done picking up
+
+[Seed] 594
+[Goal] pick up the ball.
+[Initial State] Room 1 has green ball. Room 2 has purple key. Room 3 has agent, red key. Room 4 has grey key. The purple door connecting Room 1 and Room 2 is locked. The grey door connecting Room 2 and Room 3 is locked. The red door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up green ball
+[Step 2] drop ball in void
+[Step 3] pick up purple key
+[Step 4] toggle purple door
+[Step 5] pick up red key
+[Step 6] toggle red door
+[Step 7] drop key in void
+[Step 8] pick up green ball
+[Step 9] done picking up
+
+[Seed] 595
+[Goal] pick up the ball.
+[Initial State] Room 1 has blue ball. Room 2 has red key. Room 3 has green key, agent. Room 4 has yellow key. The red door connecting Room 1 and Room 2 is locked. The yellow door connecting Room 2 and Room 3 is locked. The green door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up blue ball
+[Step 2] drop ball in void
+[Step 3] pick up red key
+[Step 4] toggle red door
+[Step 5] drop key in void
+[Step 6] pick up blue ball
+[Step 7] done picking up
+
+[Seed] 596
+[Goal] pick up the ball.
+[Initial State] Room 1 has purple ball. Room 2 has purple key. Room 3 has yellow key, agent. Room 4 has green key. The purple door connecting Room 1 and Room 2 is locked. The green door connecting Room 2 and Room 3 is locked. The yellow door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up purple key
+[Step 2] toggle purple door
+[Step 3] pick up purple ball
+[Step 4] done picking up
+
+[Seed] 597
+[Goal] pick up a box.
+[Initial State] Room 1 has purple ball, agent, purple ball, purple key. Room 2 has blue box, red key, red box, grey key. The purple door connecting Room 1 and Room 2 is locked. The purple ball is blocking the door. 
+[Step 1] pick up purple ball
+[Step 2] drop ball in void
+[Step 3] pick up purple key
+[Step 4] toggle purple door
+[Step 5] drop key in void
+[Step 6] pick up blue box
+[Step 7] done picking up
+
+[Seed] 598
+[Goal] pick up the yellow box.
+[Initial State] Room 1 has purple box, blue key, agent, purple key, blue ball. Room 2 has yellow box, green key. The blue door connecting Room 1 and Room 2 is locked. 
+[Step 1] pick up green key
+[Step 2] toggle blue door
+[Step 3] drop key in void
+[Step 4] pick up yellow box
+[Step 5] done picking up
+
+[Seed] 599
+[Goal] pick up the ball.
+[Initial State] Room 1 has grey ball. Room 2 has purple key. Room 3 has agent, grey key. Room 4 has red key. The purple door connecting Room 1 and Room 2 is locked. The red door connecting Room 2 and Room 3 is locked. The grey door connecting Room 3 and Room 4 is locked. 
+[Step 1] pick up red key
+[Step 2] toggle red door
+[Step 3] pick up grey ball
+[Step 4] drop ball in void
+[Step 5] pick up red key
+[Step 6] toggle grey door
+[Step 7] pick up grey ball
+[Step 8] done picking up
+
+[Seed] 600
+[Goal] pick up a box.
+[Initial State] Room 1 has yellow key, agent, blue key, yellow ball. Room 2 has yellow ball, green box, purple box, blue box. The yellow door connecting Room 1 and Room 2 is locked. The yellow ball is blocking the door. 
+[Step 1] pick up yellow key
+[Step 2] toggle yellow door
+[Step 3] done picking up
+

@@ -1,0 +1,43 @@
+# Data Generation
+
+defaults:
+  - config
+
+root_dir: ''
+
+hydra:
+  run:
+    dir: ${root_dir}
+
+save_dir: ${root_dir}/pickup/data/${planner.agent_type}-plans/${domain.mode}  # where to store plans from oracle, lm
+#assets_root: ${root_dir}/babyai
+disp: False  # visualize PyBullet
+shared_memory: False
+n: 400 # number of demos to generate
+save_data: False  # write episodes to disk, default=False
+parallel: True  # use multiprocessing for data generation
+max_steps: 20
+
+domain:
+  mode: train # 'train' or 'test-success' or 'test-optimal' or 'test-generalize'
+  tasks: ['BlockedUnlockPickup','UnlockToUnlock','UnlockPickup']
+
+# planner type
+planner:
+  agent_type: oracle  # oracle, lm
+  model_name: vicuna  # lm model type flan_t5, vicuna
+  decoding_type: greedy_token  # greedy_token, greedy_action, beam_action
+  decoding_score: say  # say, say_can, say_can_pay
+
+dataset:
+  images: True
+  cache: True # load episodes to memory instead of reading from disk
+
+# record videos (super slow)
+record:
+  save_video: False
+  save_video_path: ${data_dir}/pickup-${domain.mode}/videos/
+  add_text: True
+  fps: 20
+  video_height: 640
+  video_width: 720
