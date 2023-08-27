@@ -1,6 +1,8 @@
 # SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge
 ![combined.gif](combined.gif)
 
+### [[Preprint]](https://arxiv.org/pdf/2308.12682.pdf) | [[Website]](https://rishihazra.github.io/SayCanPay/)
+
 ## Quickstart
 
 * Build and run the docker image using docker/Dockerfile using
@@ -91,6 +93,23 @@ python3 ravens_inference.py \  # virtualhome_inference.py, # babyai_inference.py
         planner.model_name=flan_t5 \  # vicuna
         planner.decoding_type=beam_action \  # greedy_token, greedy_action
         planner.decoding_score=say_can_pay  # say, say_can (remove for greedy_token decoding_type)
+```
+
+## References
+[1] [Transporter Networks: Rearranging the Visual World for Robotic Manipulation, Zeng et al., CoRL 2020](https://arxiv.org/abs/2010.14406)  
+[2] [BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop, Chevalier-Boisvert et al., ICLR 2019](https://openreview.net/pdf?id=rJeXCo0cYX)  
+[3] [Virtualhome: Simulating household activities via programs, Puig et al., CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf)
+
+### To cite our paper:
+```bibtex
+@misc{hazra2023saycanpay,
+      title={SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge}, 
+      author={Rishi Hazra and Pedro Zuidberg Dos Martires and Luc De Raedt},
+      year={2023},
+      eprint={2308.12682},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
 ```
 
 
