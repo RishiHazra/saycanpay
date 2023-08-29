@@ -12,7 +12,7 @@ docker run saycanpay_env
 ```
 Alternatively, you can create a conda environment and install all requirements.
 ```shell
-conda create -n saycanpay_env python==3
+conda create -n saycanpay_env python=3
 source activate saycanpay_env
 pip install -r docker/requirements.txt
 ```
