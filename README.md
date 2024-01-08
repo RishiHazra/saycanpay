@@ -1,13 +1,8 @@
 <div style="display: flex; align-items: center; background-color: rgba(0,0,0,0.62); padding: 5px;">
     <div>
         <h1 style="color: white; margin: 0; font-size: 27px;">SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge</h1>
-            <div style="display: flex; align-items: center; padding: 5px;">
-                <img src="AAAI-24_logo.svg" alt="AAAI-24_logo" width="40" height="40">
-                <span style="color: white; padding: 0px; font-size: 30px; margin-left: 10px;">AAAI 2024</span>
-            </div>
     </div>
 </div>
-
 
 <p align="center">
     <a href="https://rishihazra.github.io/SayCanPay/" target="_blank">
@@ -22,6 +17,7 @@
   <img src="merged-saycanpay.gif" alt="merged-saycanpay">
 </p>
 
+ Official Code of our AAAI 2024 paper.
 
 [//]: # (### [[Preprint]]&#40;https://arxiv.org/pdf/2308.12682.pdf&#41; | [[Website]]&#40;https://rishihazra.github.io/SayCanPay/&#41;)
 
