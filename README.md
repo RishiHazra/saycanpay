@@ -1,7 +1,29 @@
-# SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge
-![combined.gif](combined.gif)
+<div style="display: flex; align-items: center; background-color: rgba(0,0,0,0.62); padding: 5px;">
+    <div>
+        <h1 style="color: white; margin: 0; font-size: 27px;">SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge</h1>
+            <div style="display: flex; align-items: center; padding: 5px;">
+                <img src="AAAI-24_logo.svg" alt="AAAI-24_logo" width="30" height="30">
+                <span style="color: white; padding: 0px; font-size: 20px; margin-left: 10px;">AAAI 2024</span>
+            </div>
+    </div>
+</div>
 
-### [[Preprint]](https://arxiv.org/pdf/2308.12682.pdf) | [[Website]](https://rishihazra.github.io/SayCanPay/)
+
+<p align="center">
+    <a href="https://rishihazra.github.io/SayCanPay/" target="_blank">
+        <img alt="Documentation" src="https://img.shields.io/website/https/rishihazra.github.io/SayCanPay?down_color=red&down_message=offline&up_message=online">
+    </a>
+    <a href="//arxiv.org/abs/2308.12682" target="_blank">
+        <img src="https://img.shields.io/badge/arXiv-2308.12682-red">
+    </a>
+</p>
+
+<p align="center">
+  <img src="merged-saycanpay.gif" alt="merged-saycanpay">
+</p>
+
+
+[//]: # (### [[Preprint]]&#40;https://arxiv.org/pdf/2308.12682.pdf&#41; | [[Website]]&#40;https://rishihazra.github.io/SayCanPay/&#41;)
 
 ## Quickstart
 
