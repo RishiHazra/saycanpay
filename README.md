@@ -2,8 +2,8 @@
     <div>
         <h1 style="color: white; margin: 0; font-size: 27px;">SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge</h1>
             <div style="display: flex; align-items: center; padding: 5px;">
-                <img src="AAAI-24_logo.svg" alt="AAAI-24_logo" width="30" height="30">
-                <span style="color: white; padding: 0px; font-size: 20px; margin-left: 10px;">AAAI 2024</span>
+                <img src="AAAI-24_logo.svg" alt="AAAI-24_logo" width="40" height="40">
+                <span style="color: white; padding: 0px; font-size: 30px; margin-left: 10px;">AAAI 2024</span>
             </div>
     </div>
 </div>
