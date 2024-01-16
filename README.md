@@ -23,11 +23,15 @@
 
 ## Quickstart
 
-* Build and run the docker image using docker/Dockerfile using
+### 1. Install all requirements.
+
+Using Docker: Download and run the docker image. Ensure you have [Docker](https://docs.docker.com/desktop/install/ubuntu/) installed.
 ```shell
-docker build -t saycanpay_env -f docker/Dockerfile .
-docker run saycanpay_env
+docker pull rishihazra/llm-dgx:torch-2.0.0-latest
+docker run -it rishihazra/llm-dgx:torch-2.0.0-latest
 ```
+You can also build it from scratch using docker/Dockerfile.
+
 Alternatively, you can create a conda environment and install all requirements.
 ```shell
 conda create -n saycanpay_env python=3
@@ -35,7 +39,7 @@ source activate saycanpay_env
 pip install -r docker/requirements.txt
 ```
 
-* Now define environment paths
+### 2. Now define environment paths
 ```shell
 export RAVENS_ROOT=$(pwd)/llm_planning/ravens
 export BabyAI=$(pwd)/llm_planning/babyai
