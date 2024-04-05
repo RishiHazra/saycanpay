@@ -124,13 +124,14 @@ python3 ravens_inference.py \  # virtualhome_inference.py, # babyai_inference.py
 
 ### To cite our paper:
 ```bibtex
-@misc{hazra2023saycanpay,
-      title={SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge}, 
-      author={Rishi Hazra and Pedro Zuidberg Dos Martires and Luc De Raedt},
-      year={2023},
-      eprint={2308.12682},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@inproceedings{hazra2024saycanpay,
+  title={SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge},
+  author={Hazra, Rishi and Dos Martires, Pedro Zuidberg and De Raedt, Luc},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={18},
+  pages={20123--20133},
+  year={2024}
 }
 ```
 
